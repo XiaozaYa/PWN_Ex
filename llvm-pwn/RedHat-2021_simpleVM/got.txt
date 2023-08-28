@@ -1,0 +1,1206 @@
+000000000077dfd8 R_X86_64_GLOB_DAT  stdout@GLIBC_2.2.5
+0000000000777870 R_X86_64_64       typeinfo for llvm::ModulePass@LLVM_8
+0000000000777928 R_X86_64_64       typeinfo for llvm::ModulePass@LLVM_8
+00000000007779e0 R_X86_64_64       typeinfo for llvm::ModulePass@LLVM_8
+0000000000777b50 R_X86_64_64       typeinfo for llvm::ModulePass@LLVM_8
+00000000007784f0 R_X86_64_64       typeinfo for llvm::ModulePass@LLVM_8
+00000000007788d0 R_X86_64_64       typeinfo for llvm::ModulePass@LLVM_8
+000000000077df10 R_X86_64_GLOB_DAT  llvm::AAResultsWrapperPass::ID@LLVM_8
+000000000077df18 R_X86_64_GLOB_DAT  llvm::OptimizationRemarkEmitterAnalysis::Key@LLVM_8
+000000000077df08 R_X86_64_GLOB_DAT  llvm::OptimizationRemarkEmitterWrapperPass::ID@LLVM_8
+000000000077df00 R_X86_64_GLOB_DAT  vtable for llvm::DiagnosticInfoOptimizationBase@LLVM_8
+000000000077def8 R_X86_64_GLOB_DAT  llvm::TargetTransformInfoWrapperPass::ID@LLVM_8
+000000000077dee0 R_X86_64_GLOB_DAT  llvm::RegionInfoPass::ID@LLVM_8
+000000000077ded0 R_X86_64_GLOB_DAT  llvm::LoopInfoWrapperPass::ID@LLVM_8
+000000000077ded8 R_X86_64_GLOB_DAT  llvm::ScalarEvolutionWrapperPass::ID@LLVM_8
+000000000077dee8 R_X86_64_GLOB_DAT  llvm::DominanceFrontierWrapperPass::ID@LLVM_8
+000000000077df50 R_X86_64_GLOB_DAT  llvm::SCEVAAWrapperPass::ID@LLVM_8
+000000000077df40 R_X86_64_GLOB_DAT  llvm::BasicAAWrapperPass::ID@LLVM_8
+000000000077df48 R_X86_64_GLOB_DAT  llvm::GlobalsAAWrapperPass::ID@LLVM_8
+000000000077df38 R_X86_64_GLOB_DAT  llvm::AssumptionAnalysis::Key@LLVM_8
+000000000077df30 R_X86_64_GLOB_DAT  llvm::AssumptionCacheTracker::ID@LLVM_8
+000000000077de60 R_X86_64_GLOB_DAT  llvm::IntervalPartition::ID@LLVM_8
+0000000000778698 R_X86_64_64       typeinfo for llvm::RegionPass@LLVM_8
+0000000000778760 R_X86_64_64       typeinfo for llvm::BasicBlockPass@LLVM_8
+0000000000778438 R_X86_64_64       typeinfo for llvm::CallGraphSCCPass@LLVM_8
+00000000007785d0 R_X86_64_64       typeinfo for llvm::LoopPass@LLVM_8
+000000000077de18 R_X86_64_GLOB_DAT  llvm::CallGraphWrapperPass::ID@LLVM_8
+0000000000777f28 R_X86_64_64       typeinfo for llvm::cl::generic_parser_base@LLVM_8
+00000000007789e8 R_X86_64_64       typeinfo for llvm::cl::generic_parser_base@LLVM_8
+0000000000778b88 R_X86_64_64       typeinfo for llvm::cl::generic_parser_base@LLVM_8
+0000000000778d28 R_X86_64_64       typeinfo for llvm::cl::generic_parser_base@LLVM_8
+0000000000778ec8 R_X86_64_64       typeinfo for llvm::cl::generic_parser_base@LLVM_8
+0000000000779068 R_X86_64_64       typeinfo for llvm::cl::generic_parser_base@LLVM_8
+0000000000779208 R_X86_64_64       typeinfo for llvm::cl::generic_parser_base@LLVM_8
+00000000007793a8 R_X86_64_64       typeinfo for llvm::cl::generic_parser_base@LLVM_8
+0000000000779548 R_X86_64_64       typeinfo for llvm::cl::generic_parser_base@LLVM_8
+00000000007796e8 R_X86_64_64       typeinfo for llvm::cl::generic_parser_base@LLVM_8
+0000000000779888 R_X86_64_64       typeinfo for llvm::cl::generic_parser_base@LLVM_8
+0000000000779a28 R_X86_64_64       typeinfo for llvm::cl::generic_parser_base@LLVM_8
+0000000000779bc8 R_X86_64_64       typeinfo for llvm::cl::generic_parser_base@LLVM_8
+0000000000777dc0 R_X86_64_64       typeinfo for llvm::cl::Option@LLVM_8
+0000000000777ea8 R_X86_64_64       typeinfo for llvm::cl::Option@LLVM_8
+0000000000778968 R_X86_64_64       typeinfo for llvm::cl::Option@LLVM_8
+0000000000778b08 R_X86_64_64       typeinfo for llvm::cl::Option@LLVM_8
+0000000000778ca8 R_X86_64_64       typeinfo for llvm::cl::Option@LLVM_8
+0000000000778e48 R_X86_64_64       typeinfo for llvm::cl::Option@LLVM_8
+0000000000778fe8 R_X86_64_64       typeinfo for llvm::cl::Option@LLVM_8
+0000000000779188 R_X86_64_64       typeinfo for llvm::cl::Option@LLVM_8
+0000000000779328 R_X86_64_64       typeinfo for llvm::cl::Option@LLVM_8
+00000000007794c8 R_X86_64_64       typeinfo for llvm::cl::Option@LLVM_8
+0000000000779668 R_X86_64_64       typeinfo for llvm::cl::Option@LLVM_8
+0000000000779808 R_X86_64_64       typeinfo for llvm::cl::Option@LLVM_8
+00000000007799a8 R_X86_64_64       typeinfo for llvm::cl::Option@LLVM_8
+0000000000779b48 R_X86_64_64       typeinfo for llvm::cl::Option@LLVM_8
+0000000000779ce8 R_X86_64_64       typeinfo for llvm::cl::Option@LLVM_8
+0000000000779ec0 R_X86_64_64       typeinfo for llvm::cl::Option@LLVM_8
+000000000077de10 R_X86_64_GLOB_DAT  vtable for llvm::cl::opt<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, false, llvm::cl::parser<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >@LLVM_8
+000000000077de08 R_X86_64_GLOB_DAT  vtable for llvm::cl::OptionValue<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >@LLVM_8
+000000000077de00 R_X86_64_GLOB_DAT  vtable for llvm::cl::parser<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >@LLVM_8
+000000000077dde8 R_X86_64_GLOB_DAT  vtable for llvm::ErrorList@LLVM_8
+000000000077dde0 R_X86_64_GLOB_DAT  llvm::ErrorList::ID@LLVM_8
+000000000077ddd8 R_X86_64_GLOB_DAT  llvm::AAManager::Key@LLVM_8
+000000000077ddd0 R_X86_64_GLOB_DAT  llvm::TimePassesIsEnabled@LLVM_8
+000000000077ddf8 R_X86_64_GLOB_DAT  llvm::TargetLibraryAnalysis::Key@LLVM_8
+0000000000777c40 R_X86_64_64       typeinfo for llvm::cl::GenericOptionValue@LLVM_8
+0000000000777e10 R_X86_64_64       typeinfo for llvm::cl::GenericOptionValue@LLVM_8
+0000000000777f60 R_X86_64_64       typeinfo for llvm::cl::GenericOptionValue@LLVM_8
+0000000000778a20 R_X86_64_64       typeinfo for llvm::cl::GenericOptionValue@LLVM_8
+0000000000778bc0 R_X86_64_64       typeinfo for llvm::cl::GenericOptionValue@LLVM_8
+0000000000778d60 R_X86_64_64       typeinfo for llvm::cl::GenericOptionValue@LLVM_8
+0000000000778f00 R_X86_64_64       typeinfo for llvm::cl::GenericOptionValue@LLVM_8
+00000000007790a0 R_X86_64_64       typeinfo for llvm::cl::GenericOptionValue@LLVM_8
+0000000000779240 R_X86_64_64       typeinfo for llvm::cl::GenericOptionValue@LLVM_8
+00000000007793e0 R_X86_64_64       typeinfo for llvm::cl::GenericOptionValue@LLVM_8
+0000000000779580 R_X86_64_64       typeinfo for llvm::cl::GenericOptionValue@LLVM_8
+0000000000779720 R_X86_64_64       typeinfo for llvm::cl::GenericOptionValue@LLVM_8
+00000000007798c0 R_X86_64_64       typeinfo for llvm::cl::GenericOptionValue@LLVM_8
+0000000000779a60 R_X86_64_64       typeinfo for llvm::cl::GenericOptionValue@LLVM_8
+0000000000779c00 R_X86_64_64       typeinfo for llvm::cl::GenericOptionValue@LLVM_8
+0000000000779d78 R_X86_64_64       typeinfo for llvm::cl::GenericOptionValue@LLVM_8
+0000000000779de0 R_X86_64_64       typeinfo for llvm::cl::GenericOptionValue@LLVM_8
+0000000000779f10 R_X86_64_64       typeinfo for llvm::cl::GenericOptionValue@LLVM_8
+0000000000777a98 R_X86_64_64       typeinfo for llvm::FunctionPass@LLVM_8
+0000000000777c08 R_X86_64_64       typeinfo for llvm::FunctionPass@LLVM_8
+0000000000777d28 R_X86_64_64       typeinfo for llvm::FunctionPass@LLVM_8
+0000000000778370 R_X86_64_64       typeinfo for llvm::FunctionPass@LLVM_8
+0000000000778818 R_X86_64_64       typeinfo for llvm::FunctionPass@LLVM_8
+000000000077ddc0 R_X86_64_GLOB_DAT  vtable for llvm::cl::parser<bool>@LLVM_8
+000000000077ddb8 R_X86_64_GLOB_DAT  vtable for llvm::cl::opt<bool, false, llvm::cl::parser<bool> >@LLVM_8
+000000000077dda0 R_X86_64_GLOB_DAT  vtable for llvm::cl::Option@LLVM_8
+000000000077ddc8 R_X86_64_GLOB_DAT  llvm::DominatorTreeWrapperPass::ID@LLVM_8
+000000000077ddf0 R_X86_64_GLOB_DAT  llvm::ErrorInfoBase::ID@LLVM_8
+000000000077ddb0 R_X86_64_GLOB_DAT  llvm::cl::GeneralCategory@LLVM_8
+000000000077dda8 R_X86_64_GLOB_DAT  llvm::PreservedAnalyses::AllAnalysesKey@LLVM_8
+000000000077df20 R_X86_64_GLOB_DAT  std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::~basic_string()@GLIBCXX_3.4.21
+000000000077dec8 R_X86_64_GLOB_DAT  __once_proxy@GLIBCXX_3.4.11
+000000000077de28 R_X86_64_GLOB_DAT  llvm::EnableDebugBuffering@LLVM_8
+0000000000777860 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000777918 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+00000000007779d0 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000777a88 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000777b40 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000777bf8 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000777c30 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000777c48 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000777c60 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000777d18 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000777e00 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000777f18 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000777f50 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000777f68 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000777f80 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778088 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+00000000007780d0 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778138 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778188 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+00000000007781d0 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778218 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778260 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+00000000007782a8 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778360 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778428 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+00000000007784e0 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+00000000007785c0 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778688 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778750 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778808 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+00000000007788c0 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+00000000007789d8 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778a10 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778a28 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778a40 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778b78 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778bb0 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778bc8 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778be0 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778d18 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778d50 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778d68 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778d80 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778eb8 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778ef0 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778f08 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778f20 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779058 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779090 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+00000000007790a8 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+00000000007790c0 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+00000000007791f8 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779230 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779248 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779260 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779398 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+00000000007793d0 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+00000000007793e8 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779400 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779538 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779570 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779588 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+00000000007795a0 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+00000000007796d8 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779710 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779728 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779740 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779878 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+00000000007798b0 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+00000000007798c8 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+00000000007798e0 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779a18 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779a50 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779a68 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779a80 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779bb8 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779bf0 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779c08 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779c20 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779d30 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779d68 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779d80 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779d98 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779dd0 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779de8 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779e00 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779e90 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779f00 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779f18 R_X86_64_64       vtable for __cxxabiv1::__si_class_type_info@CXXABI_1.3+0x0000000000000010
+000000000077deb8 R_X86_64_TPOFF64  std::__once_callable@GLIBCXX_3.4.11
+000000000077dec0 R_X86_64_TPOFF64  std::__once_call@GLIBCXX_3.4.11
+000000000077deb0 R_X86_64_GLOB_DAT  llvm::InnerAnalysisManagerProxy<llvm::AnalysisManager<llvm::Function>, llvm::Module>::Key@LLVM_8
+000000000077de88 R_X86_64_GLOB_DAT  llvm::PassInstrumentationAnalysis::Key@LLVM_8
+000000000077dea0 R_X86_64_GLOB_DAT  llvm::LoopAnalysis::Key@LLVM_8
+000000000077de78 R_X86_64_GLOB_DAT  llvm::AllAnalysesOn<llvm::Function>::SetKey@LLVM_8
+000000000077de90 R_X86_64_GLOB_DAT  llvm::DominatorTreeAnalysis::Key@LLVM_8
+000000000077dea8 R_X86_64_GLOB_DAT  llvm::RegionInfoAnalysis::Key@LLVM_8
+000000000077de98 R_X86_64_GLOB_DAT  llvm::ScalarEvolutionAnalysis::Key@LLVM_8
+0000000000777da8 R_X86_64_64       vtable for __cxxabiv1::__vmi_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000777e90 R_X86_64_64       vtable for __cxxabiv1::__vmi_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778950 R_X86_64_64       vtable for __cxxabiv1::__vmi_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778af0 R_X86_64_64       vtable for __cxxabiv1::__vmi_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778c90 R_X86_64_64       vtable for __cxxabiv1::__vmi_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778e30 R_X86_64_64       vtable for __cxxabiv1::__vmi_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778fd0 R_X86_64_64       vtable for __cxxabiv1::__vmi_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779170 R_X86_64_64       vtable for __cxxabiv1::__vmi_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779310 R_X86_64_64       vtable for __cxxabiv1::__vmi_class_type_info@CXXABI_1.3+0x0000000000000010
+00000000007794b0 R_X86_64_64       vtable for __cxxabiv1::__vmi_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779650 R_X86_64_64       vtable for __cxxabiv1::__vmi_class_type_info@CXXABI_1.3+0x0000000000000010
+00000000007797f0 R_X86_64_64       vtable for __cxxabiv1::__vmi_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779990 R_X86_64_64       vtable for __cxxabiv1::__vmi_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779b30 R_X86_64_64       vtable for __cxxabiv1::__vmi_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779cd0 R_X86_64_64       vtable for __cxxabiv1::__vmi_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779ea8 R_X86_64_64       vtable for __cxxabiv1::__vmi_class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000777d98 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000777e80 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000777fb8 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000777fc8 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000777fd8 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000777fe8 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000777ff8 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778008 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778018 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778028 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778038 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778078 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+00000000007780e8 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778128 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778178 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778940 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778ae0 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778c80 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778e20 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000778fc0 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779160 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779300 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+00000000007794a0 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779640 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+00000000007797e0 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779980 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779b20 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779cc0 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+0000000000779e80 R_X86_64_64       vtable for __cxxabiv1::__class_type_info@CXXABI_1.3+0x0000000000000010
+000000000077de40 R_X86_64_GLOB_DAT  vtable for llvm::cl::parser<int>@LLVM_8
+000000000077de50 R_X86_64_GLOB_DAT  vtable for llvm::cl::parser<unsigned int>@LLVM_8
+000000000077de70 R_X86_64_GLOB_DAT  vtable for llvm::RGPassManager@LLVM_8
+000000000077de68 R_X86_64_GLOB_DAT  vtable for llvm::IntervalPartition@LLVM_8
+000000000077de58 R_X86_64_GLOB_DAT  vtable for llvm::raw_string_ostream@LLVM_8
+000000000077de30 R_X86_64_GLOB_DAT  vtable for llvm::raw_svector_ostream@LLVM_8
+000000000077df80 R_X86_64_GLOB_DAT  llvm::AllAnalysesOn<llvm::Module>::SetKey@LLVM_8
+000000000077df58 R_X86_64_GLOB_DAT  vtable for std::basic_ios<char, std::char_traits<char> >@GLIBCXX_3.4
+000000000077df70 R_X86_64_GLOB_DAT  vtable for std::basic_streambuf<char, std::char_traits<char> >@GLIBCXX_3.4
+000000000077df68 R_X86_64_GLOB_DAT  vtable for std::__cxx11::basic_stringstream<char, std::char_traits<char>, std::allocator<char> >@GLIBCXX_3.4.21
+000000000077df78 R_X86_64_GLOB_DAT  vtable for std::__cxx11::basic_stringbuf<char, std::char_traits<char>, std::allocator<char> >@GLIBCXX_3.4.21
+000000000077df60 R_X86_64_GLOB_DAT  VTT for std::__cxx11::basic_stringstream<char, std::char_traits<char>, std::allocator<char> >@GLIBCXX_3.4.21
+000000000077de20 R_X86_64_GLOB_DAT  vtable for llvm::cl::alias@LLVM_8
+000000000077de38 R_X86_64_GLOB_DAT  vtable for llvm::cl::opt<int, false, llvm::cl::parser<int> >@LLVM_8
+000000000077de48 R_X86_64_GLOB_DAT  vtable for llvm::cl::opt<unsigned int, false, llvm::cl::parser<unsigned int> >@LLVM_8
+0000000000779d40 R_X86_64_64       typeinfo for llvm::legacy::PassManager@LLVM_8
+000000000077df28 R_X86_64_GLOB_DAT  vsnprintf@GLIBC_2.2.5
+000000000077def0 R_X86_64_GLOB_DAT  stderr@GLIBC_2.2.5
+000000000077de80 R_X86_64_GLOB_DAT  __pthread_key_create@GLIBC_2.2.5
+000000000077dd90 R_X86_64_GLOB_DAT  __libc_start_main@GLIBC_2.2.5
+000000000077dd98 R_X86_64_GLOB_DAT  __gmon_start__
+000000000077e000 R_X86_64_JUMP_SLOT  operator delete(void*)@GLIBCXX_3.4
+000000000077e008 R_X86_64_JUMP_SLOT  operator new(unsigned long)@GLIBCXX_3.4
+000000000077e010 R_X86_64_JUMP_SLOT  llvm::ModulePass::~ModulePass()@LLVM_8
+000000000077e018 R_X86_64_JUMP_SLOT  llvm::GlobalValue::isDeclaration() const@LLVM_8
+000000000077e020 R_X86_64_JUMP_SLOT  llvm::Use::getUser() const@LLVM_8
+000000000077e028 R_X86_64_JUMP_SLOT  llvm::errs()@LLVM_8
+000000000077e030 R_X86_64_JUMP_SLOT  llvm::raw_ostream::write(char const*, unsigned long)@LLVM_8
+000000000077e038 R_X86_64_JUMP_SLOT  llvm::Value::getName() const@LLVM_8
+000000000077e040 R_X86_64_JUMP_SLOT  memcpy@GLIBC_2.14
+000000000077e048 R_X86_64_JUMP_SLOT  llvm::Value::print(llvm::raw_ostream&, bool) const@LLVM_8
+000000000077e050 R_X86_64_JUMP_SLOT  llvm::User::getDescriptor()@LLVM_8
+000000000077e058 R_X86_64_JUMP_SLOT  llvm::PassRegistry::getPassRegistry()@LLVM_8
+000000000077e060 R_X86_64_JUMP_SLOT  llvm::PassRegistry::registerPass(llvm::PassInfo const&, bool)@LLVM_8
+000000000077e068 R_X86_64_JUMP_SLOT  __cxa_atexit@GLIBC_2.2.5
+000000000077e070 R_X86_64_JUMP_SLOT  llvm::Pass::getPassName() const@LLVM_8
+000000000077e078 R_X86_64_JUMP_SLOT  llvm::Pass::print(llvm::raw_ostream&, llvm::Module const*) const@LLVM_8
+000000000077e080 R_X86_64_JUMP_SLOT  llvm::ModulePass::createPrinterPass(llvm::raw_ostream&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) const@LLVM_8
+000000000077e088 R_X86_64_JUMP_SLOT  llvm::ModulePass::assignPassManager(llvm::PMStack&, llvm::PassManagerType)@LLVM_8
+000000000077e090 R_X86_64_JUMP_SLOT  llvm::Pass::preparePassManager(llvm::PMStack&)@LLVM_8
+000000000077e098 R_X86_64_JUMP_SLOT  llvm::ModulePass::getPotentialPassManagerType() const@LLVM_8
+000000000077e0a0 R_X86_64_JUMP_SLOT  llvm::Pass::releaseMemory()@LLVM_8
+000000000077e0a8 R_X86_64_JUMP_SLOT  llvm::Pass::getAdjustedAnalysisPointer(void const*)@LLVM_8
+000000000077e0b0 R_X86_64_JUMP_SLOT  llvm::Pass::getAsImmutablePass()@LLVM_8
+000000000077e0b8 R_X86_64_JUMP_SLOT  llvm::Pass::getAsPMDataManager()@LLVM_8
+000000000077e0c0 R_X86_64_JUMP_SLOT  llvm::Pass::verifyAnalysis() const@LLVM_8
+000000000077e0c8 R_X86_64_JUMP_SLOT  llvm::Pass::dumpPassStructure(unsigned int)@LLVM_8
+000000000077e0d0 R_X86_64_JUMP_SLOT  llvm::Module::getNamedMetadata(llvm::Twine const&) const@LLVM_8
+000000000077e0d8 R_X86_64_JUMP_SLOT  llvm::NamedMDNode::getNumOperands() const@LLVM_8
+000000000077e0e0 R_X86_64_JUMP_SLOT  llvm::NamedMDNode::getOperand(unsigned int) const@LLVM_8
+000000000077e0e8 R_X86_64_JUMP_SLOT  llvm::MDString::getString() const@LLVM_8
+000000000077e0f0 R_X86_64_JUMP_SLOT  std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_create(unsigned long&, unsigned long)@GLIBCXX_3.4.21
+000000000077e0f8 R_X86_64_JUMP_SLOT  std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_replace(unsigned long, unsigned long, char const*, unsigned long)@GLIBCXX_3.4.21
+000000000077e100 R_X86_64_JUMP_SLOT  free@GLIBC_2.2.5
+000000000077e108 R_X86_64_JUMP_SLOT  std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_append(char const*, unsigned long)@GLIBCXX_3.4.21
+000000000077e110 R_X86_64_JUMP_SLOT  std::__throw_length_error(char const*)@GLIBCXX_3.4
+000000000077e118 R_X86_64_JUMP_SLOT  llvm::StringMapImpl::LookupBucketFor(llvm::StringRef)@LLVM_8
+000000000077e120 R_X86_64_JUMP_SLOT  malloc@GLIBC_2.2.5
+000000000077e128 R_X86_64_JUMP_SLOT  llvm::report_bad_alloc_error(char const*, bool)@LLVM_8
+000000000077e130 R_X86_64_JUMP_SLOT  llvm::StringMapImpl::RehashTable(unsigned int)@LLVM_8
+000000000077e138 R_X86_64_JUMP_SLOT  std::_V2::system_category()@GLIBCXX_3.4.21
+000000000077e140 R_X86_64_JUMP_SLOT  llvm::raw_fd_ostream::raw_fd_ostream(llvm::StringRef, std::error_code&)@LLVM_8
+000000000077e148 R_X86_64_JUMP_SLOT  llvm::raw_ostream::write(unsigned char)@LLVM_8
+000000000077e150 R_X86_64_JUMP_SLOT  llvm::raw_ostream::operator<<(unsigned long)@LLVM_8
+000000000077e158 R_X86_64_JUMP_SLOT  llvm::raw_ostream::operator<<(double)@LLVM_8
+000000000077e160 R_X86_64_JUMP_SLOT  llvm::raw_fd_ostream::~raw_fd_ostream()@LLVM_8
+000000000077e168 R_X86_64_JUMP_SLOT  llvm::nulls()@LLVM_8
+000000000077e170 R_X86_64_JUMP_SLOT  llvm::DIBuilder::DIBuilder(llvm::Module&, bool, llvm::DICompileUnit*)@LLVM_8
+000000000077e178 R_X86_64_JUMP_SLOT  llvm::DIBuilder::createFile(llvm::StringRef, llvm::StringRef, llvm::Optional<llvm::DIFile::ChecksumInfo<llvm::StringRef> >, llvm::Optional<llvm::StringRef>)@LLVM_8
+000000000077e180 R_X86_64_JUMP_SLOT  llvm::DIBuilder::createCompileUnit(unsigned int, llvm::DIFile*, llvm::StringRef, bool, llvm::StringRef, unsigned int, llvm::StringRef, llvm::DICompileUnit::DebugEmissionKind, unsigned long, bool, bool, llvm::DICompileUnit::DebugNameTableKind, bool)@LLVM_8
+000000000077e188 R_X86_64_JUMP_SLOT  llvm::DIBuilder::getOrCreateTypeArray(llvm::ArrayRef<llvm::Metadata*>)@LLVM_8
+000000000077e190 R_X86_64_JUMP_SLOT  llvm::DIBuilder::createSubroutineType(llvm::DITypeRefArray, llvm::DINode::DIFlags, unsigned int)@LLVM_8
+000000000077e198 R_X86_64_JUMP_SLOT  llvm::DIBuilder::createFunction(llvm::DIScope*, llvm::StringRef, llvm::StringRef, llvm::DIFile*, unsigned int, llvm::DISubroutineType*, unsigned int, llvm::DINode::DIFlags, llvm::DISubprogram::DISPFlags, llvm::MDTupleTypedArrayWrapper<llvm::DITemplateParameter>, llvm::DISubprogram*, llvm::MDTupleTypedArrayWrapper<llvm::DIType>)@LLVM_8
+000000000077e1a0 R_X86_64_JUMP_SLOT  llvm::Function::setSubprogram(llvm::DISubprogram*)@LLVM_8
+000000000077e1a8 R_X86_64_JUMP_SLOT  llvm::BasicBlock::getTerminatingMustTailCall() const@LLVM_8
+000000000077e1b0 R_X86_64_JUMP_SLOT  llvm::BasicBlock::getTerminatingDeoptimizeCall() const@LLVM_8
+000000000077e1b8 R_X86_64_JUMP_SLOT  llvm::BasicBlock::getTerminator() const@LLVM_8
+000000000077e1c0 R_X86_64_JUMP_SLOT  llvm::BasicBlock::getFirstInsertionPt() const@LLVM_8
+000000000077e1c8 R_X86_64_JUMP_SLOT  llvm::DebugLoc::get() const@LLVM_8
+000000000077e1d0 R_X86_64_JUMP_SLOT  llvm::Module::getDataLayout() const@LLVM_8
+000000000077e1d8 R_X86_64_JUMP_SLOT  llvm::DataLayout::getABITypeAlignment(llvm::Type*) const@LLVM_8
+000000000077e1e0 R_X86_64_JUMP_SLOT  llvm::Type::isSizedDerivedType(llvm::SmallPtrSetImpl<llvm::Type*>*) const@LLVM_8
+000000000077e1e8 R_X86_64_JUMP_SLOT  llvm::DIBuilder::createBasicType(llvm::StringRef, unsigned long, unsigned int, llvm::DINode::DIFlags)@LLVM_8
+000000000077e1f0 R_X86_64_JUMP_SLOT  llvm::DIBuilder::createAutoVariable(llvm::DIScope*, llvm::StringRef, llvm::DIFile*, unsigned int, llvm::DIType*, bool, llvm::DINode::DIFlags, unsigned int)@LLVM_8
+000000000077e1f8 R_X86_64_JUMP_SLOT  llvm::DIBuilder::createExpression(llvm::ArrayRef<unsigned long>)@LLVM_8
+000000000077e200 R_X86_64_JUMP_SLOT  llvm::DIBuilder::insertDbgValueIntrinsic(llvm::Value*, llvm::DILocalVariable*, llvm::DIExpression*, llvm::DILocation const*, llvm::Instruction*)@LLVM_8
+000000000077e208 R_X86_64_JUMP_SLOT  llvm::DILocation::getImpl(llvm::LLVMContext&, unsigned int, unsigned int, llvm::Metadata*, llvm::Metadata*, bool, llvm::Metadata::StorageType, bool)@LLVM_8
+000000000077e210 R_X86_64_JUMP_SLOT  llvm::DebugLoc::DebugLoc(llvm::DILocation const*)@LLVM_8
+000000000077e218 R_X86_64_JUMP_SLOT  llvm::MetadataTracking::untrack(void*, llvm::Metadata&)@LLVM_8
+000000000077e220 R_X86_64_JUMP_SLOT  llvm::MetadataTracking::retrack(void*, llvm::Metadata&, void*)@LLVM_8
+000000000077e228 R_X86_64_JUMP_SLOT  llvm::BasicBlock::getFirstNonPHI() const@LLVM_8
+000000000077e230 R_X86_64_JUMP_SLOT  llvm::DIBuilder::finalizeSubprogram(llvm::DISubprogram*)@LLVM_8
+000000000077e238 R_X86_64_JUMP_SLOT  llvm::DIBuilder::finalize()@LLVM_8
+000000000077e240 R_X86_64_JUMP_SLOT  llvm::Module::getOrInsertNamedMetadata(llvm::StringRef)@LLVM_8
+000000000077e248 R_X86_64_JUMP_SLOT  llvm::Type::getInt32Ty(llvm::LLVMContext&)@LLVM_8
+000000000077e250 R_X86_64_JUMP_SLOT  llvm::ConstantInt::get(llvm::IntegerType*, unsigned long, bool)@LLVM_8
+000000000077e258 R_X86_64_JUMP_SLOT  llvm::ValueAsMetadata::get(llvm::Value*)@LLVM_8
+000000000077e260 R_X86_64_JUMP_SLOT  llvm::MDTuple::getImpl(llvm::LLVMContext&, llvm::ArrayRef<llvm::Metadata*>, llvm::Metadata::StorageType, bool)@LLVM_8
+000000000077e268 R_X86_64_JUMP_SLOT  llvm::NamedMDNode::addOperand(llvm::MDNode*)@LLVM_8
+000000000077e270 R_X86_64_JUMP_SLOT  llvm::Module::getModuleFlag(llvm::StringRef) const@LLVM_8
+000000000077e278 R_X86_64_JUMP_SLOT  llvm::Module::addModuleFlag(llvm::Module::ModFlagBehavior, llvm::StringRef, unsigned int)@LLVM_8
+000000000077e280 R_X86_64_JUMP_SLOT  memset@GLIBC_2.2.5
+000000000077e288 R_X86_64_JUMP_SLOT  llvm::MetadataTracking::track(void*, llvm::Metadata&, llvm::PointerUnion<llvm::MetadataAsValue*, llvm::Metadata*>)@LLVM_8
+000000000077e290 R_X86_64_JUMP_SLOT  llvm::DebugLoc::getLine() const@LLVM_8
+000000000077e298 R_X86_64_JUMP_SLOT  llvm::getAsUnsignedInteger(llvm::StringRef, unsigned int, unsigned long long&)@LLVM_8
+000000000077e2a0 R_X86_64_JUMP_SLOT  llvm::DbgVariableIntrinsic::getVariableLocation(bool) const@LLVM_8
+000000000077e2a8 R_X86_64_JUMP_SLOT  llvm::DbgVariableIntrinsic::getFragmentSizeInBits() const@LLVM_8
+000000000077e2b0 R_X86_64_JUMP_SLOT  llvm::DIBasicType::getSignedness() const@LLVM_8
+000000000077e2b8 R_X86_64_JUMP_SLOT  llvm::StripDebugInfo(llvm::Module&)@LLVM_8
+000000000077e2c0 R_X86_64_JUMP_SLOT  llvm::Module::eraseNamedMetadata(llvm::NamedMDNode*)@LLVM_8
+000000000077e2c8 R_X86_64_JUMP_SLOT  llvm::Pass::~Pass()@LLVM_8
+000000000077e2d0 R_X86_64_JUMP_SLOT  llvm::DataLayout::getStructLayout(llvm::StructType*) const@LLVM_8
+000000000077e2d8 R_X86_64_JUMP_SLOT  llvm::DataLayout::getPointerSize(unsigned int) const@LLVM_8
+000000000077e2e0 R_X86_64_JUMP_SLOT  llvm::hash_value(llvm::StringRef)@LLVM_8
+000000000077e2e8 R_X86_64_JUMP_SLOT  memcmp@GLIBC_2.2.5
+000000000077e2f0 R_X86_64_JUMP_SLOT  llvm::cl::Option::setArgStr(llvm::StringRef)@LLVM_8
+000000000077e2f8 R_X86_64_JUMP_SLOT  llvm::cl::Option::addArgument()@LLVM_8
+000000000077e300 R_X86_64_JUMP_SLOT  llvm::FunctionPass::createPrinterPass(llvm::raw_ostream&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) const@LLVM_8
+000000000077e308 R_X86_64_JUMP_SLOT  llvm::FunctionPass::assignPassManager(llvm::PMStack&, llvm::PassManagerType)@LLVM_8
+000000000077e310 R_X86_64_JUMP_SLOT  llvm::FunctionPass::getPotentialPassManagerType() const@LLVM_8
+000000000077e318 R_X86_64_JUMP_SLOT  llvm::cl::GenericOptionValue::anchor()@LLVM_8
+000000000077e320 R_X86_64_JUMP_SLOT  llvm::AnalysisUsage::addRequiredID(char&)@LLVM_8
+000000000077e328 R_X86_64_JUMP_SLOT  llvm::dbgs()@LLVM_8
+000000000077e330 R_X86_64_JUMP_SLOT  llvm::TimePassesHandler::TimePassesHandler(bool)@LLVM_8
+000000000077e338 R_X86_64_JUMP_SLOT  llvm::StandardInstrumentations::registerCallbacks(llvm::PassInstrumentationCallbacks&)@LLVM_8
+000000000077e340 R_X86_64_JUMP_SLOT  llvm::PassPlugin::Load(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)@LLVM_8
+000000000077e348 R_X86_64_JUMP_SLOT  llvm::PassBuilder::parseAAPipeline(llvm::AAManager&, llvm::StringRef)@LLVM_8
+000000000077e350 R_X86_64_JUMP_SLOT  llvm::SmallVectorBase::grow_pod(void*, unsigned long, unsigned long)@LLVM_8
+000000000077e358 R_X86_64_JUMP_SLOT  llvm::PassBuilder::registerModuleAnalyses(llvm::AnalysisManager<llvm::Module>&)@LLVM_8
+000000000077e360 R_X86_64_JUMP_SLOT  llvm::PassBuilder::registerCGSCCAnalyses(llvm::AnalysisManager<llvm::LazyCallGraph::SCC, llvm::LazyCallGraph&>&)@LLVM_8
+000000000077e368 R_X86_64_JUMP_SLOT  llvm::PassBuilder::registerFunctionAnalyses(llvm::AnalysisManager<llvm::Function>&)@LLVM_8
+000000000077e370 R_X86_64_JUMP_SLOT  llvm::PassBuilder::registerLoopAnalyses(llvm::AnalysisManager<llvm::Loop, llvm::LoopStandardAnalysisResults&>&)@LLVM_8
+000000000077e378 R_X86_64_JUMP_SLOT  llvm::PassBuilder::crossRegisterProxies(llvm::AnalysisManager<llvm::Loop, llvm::LoopStandardAnalysisResults&>&, llvm::AnalysisManager<llvm::Function>&, llvm::AnalysisManager<llvm::LazyCallGraph::SCC, llvm::LazyCallGraph&>&, llvm::AnalysisManager<llvm::Module>&)@LLVM_8
+000000000077e380 R_X86_64_JUMP_SLOT  llvm::PassBuilder::parsePassPipeline(llvm::PassManager<llvm::Module, llvm::AnalysisManager<llvm::Module>>&, llvm::StringRef, bool, bool)@LLVM_8
+000000000077e388 R_X86_64_JUMP_SLOT  llvm::PrintModulePass::PrintModulePass(llvm::raw_ostream&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, bool)@LLVM_8
+000000000077e390 R_X86_64_JUMP_SLOT  llvm::cl::PrintOptionValues()@LLVM_8
+000000000077e398 R_X86_64_JUMP_SLOT  llvm::PassManager<llvm::Module, llvm::AnalysisManager<llvm::Module>>::run(llvm::Module&, llvm::AnalysisManager<llvm::Module>&)@LLVM_8
+000000000077e3a0 R_X86_64_JUMP_SLOT  llvm::PrintIRInstrumentation::~PrintIRInstrumentation()@LLVM_8
+000000000077e3a8 R_X86_64_JUMP_SLOT  std::__throw_logic_error(char const*)@GLIBCXX_3.4
+000000000077e3b0 R_X86_64_JUMP_SLOT  std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::reserve(unsigned long)@GLIBCXX_3.4.21
+000000000077e3b8 R_X86_64_JUMP_SLOT  memmove@GLIBC_2.2.5
+000000000077e3c0 R_X86_64_JUMP_SLOT  llvm::cl::basic_parser_impl::getOptionWidth(llvm::cl::Option const&) const@LLVM_8
+000000000077e3c8 R_X86_64_JUMP_SLOT  llvm::cl::basic_parser_impl::printOptionInfo(llvm::cl::Option const&, unsigned long) const@LLVM_8
+000000000077e3d0 R_X86_64_JUMP_SLOT  llvm::cl::generic_parser_base::getOptionWidth(llvm::cl::Option const&) const@LLVM_8
+000000000077e3d8 R_X86_64_JUMP_SLOT  llvm::cl::generic_parser_base::printOptionInfo(llvm::cl::Option const&, unsigned long) const@LLVM_8
+000000000077e3e0 R_X86_64_JUMP_SLOT  llvm::cl::generic_parser_base::printGenericOptionDiff(llvm::cl::Option const&, llvm::cl::GenericOptionValue const&, llvm::cl::GenericOptionValue const&, unsigned long) const@LLVM_8
+000000000077e3e8 R_X86_64_JUMP_SLOT  llvm::cl::Option::error(llvm::Twine const&, llvm::StringRef, llvm::raw_ostream&)@LLVM_8
+000000000077e3f0 R_X86_64_JUMP_SLOT  llvm::PassBuilder::parsePassPipeline(llvm::PassManager<llvm::Function, llvm::AnalysisManager<llvm::Function>>&, llvm::StringRef, bool, bool)@LLVM_8
+000000000077e3f8 R_X86_64_JUMP_SLOT  llvm::PassBuilder::parsePassPipeline(llvm::PassManager<llvm::Loop, llvm::AnalysisManager<llvm::Loop, llvm::LoopStandardAnalysisResults&>, llvm::LoopStandardAnalysisResults&, llvm::LPMUpdater&>&, llvm::StringRef, bool, bool)@LLVM_8
+000000000077e400 R_X86_64_JUMP_SLOT  llvm::PassBuilder::parsePassPipeline(llvm::PassManager<llvm::LazyCallGraph::SCC, llvm::AnalysisManager<llvm::LazyCallGraph::SCC, llvm::LazyCallGraph&>, llvm::LazyCallGraph&, llvm::CGSCCUpdateResult&>&, llvm::StringRef, bool, bool)@LLVM_8
+000000000077e408 R_X86_64_JUMP_SLOT  llvm::logAllUnhandledErrors(llvm::Error, llvm::raw_ostream&, llvm::Twine)@LLVM_8
+000000000077e410 R_X86_64_JUMP_SLOT  exit@GLIBC_2.2.5
+000000000077e418 R_X86_64_JUMP_SLOT  std::__throw_bad_function_call()@GLIBCXX_3.4.14
+000000000077e420 R_X86_64_JUMP_SLOT  llvm::Timer::~Timer()@LLVM_8
+000000000077e428 R_X86_64_JUMP_SLOT  llvm::TimerGroup::~TimerGroup()@LLVM_8
+000000000077e430 R_X86_64_JUMP_SLOT  llvm::StringRef::find(llvm::StringRef, unsigned long) const@LLVM_8
+000000000077e438 R_X86_64_JUMP_SLOT  llvm::AnalysisManager<llvm::Function>::getResultImpl(llvm::AnalysisKey*, llvm::Function&)@LLVM_8
+000000000077e440 R_X86_64_JUMP_SLOT  llvm::AAResults::AAResults(llvm::AAResults&&)@LLVM_8
+000000000077e448 R_X86_64_JUMP_SLOT  llvm::AAResults::~AAResults()@LLVM_8
+000000000077e450 R_X86_64_JUMP_SLOT  llvm::AAResults::invalidate(llvm::Function&, llvm::PreservedAnalyses const&, llvm::AnalysisManager<llvm::Function>::Invalidator&)@LLVM_8
+000000000077e458 R_X86_64_JUMP_SLOT  llvm::VerifierPass::run(llvm::Module&, llvm::AnalysisManager<llvm::Module>&)@LLVM_8
+000000000077e460 R_X86_64_JUMP_SLOT  llvm::PrintModulePass::run(llvm::Module&, llvm::AnalysisManager<llvm::Module>&)@LLVM_8
+000000000077e468 R_X86_64_JUMP_SLOT  llvm::BitcodeWriterPass::run(llvm::Module&, llvm::AnalysisManager<llvm::Module>&)@LLVM_8
+000000000077e470 R_X86_64_JUMP_SLOT  llvm::ThinLTOBitcodeWriterPass::run(llvm::Module&, llvm::AnalysisManager<llvm::Module>&)@LLVM_8
+000000000077e478 R_X86_64_JUMP_SLOT  llvm::cl::AddLiteralOption(llvm::cl::Option&, llvm::StringRef)@LLVM_8
+000000000077e480 R_X86_64_JUMP_SLOT  llvm::cl::Option::anchor()@LLVM_8
+000000000077e488 R_X86_64_JUMP_SLOT  llvm::cl::Option::addOccurrence(unsigned int, llvm::StringRef, llvm::StringRef, bool)@LLVM_8
+000000000077e490 R_X86_64_JUMP_SLOT  llvm::AnalysisUsage::addRequiredID(void const*)@LLVM_8
+000000000077e498 R_X86_64_JUMP_SLOT  llvm::RegionBase<llvm::RegionTraits<llvm::Function> >::getNameStr[abi:cxx11]() const@LLVM_8
+000000000077e4a0 R_X86_64_JUMP_SLOT  llvm::CallGraphSCCPass::createPrinterPass(llvm::raw_ostream&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) const@LLVM_8
+000000000077e4a8 R_X86_64_JUMP_SLOT  llvm::CallGraphSCCPass::assignPassManager(llvm::PMStack&, llvm::PassManagerType)@LLVM_8
+000000000077e4b0 R_X86_64_JUMP_SLOT  llvm::LoopPass::createPrinterPass(llvm::raw_ostream&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) const@LLVM_8
+000000000077e4b8 R_X86_64_JUMP_SLOT  llvm::LoopPass::assignPassManager(llvm::PMStack&, llvm::PassManagerType)@LLVM_8
+000000000077e4c0 R_X86_64_JUMP_SLOT  llvm::LoopPass::preparePassManager(llvm::PMStack&)@LLVM_8
+000000000077e4c8 R_X86_64_JUMP_SLOT  llvm::RegionPass::createPrinterPass(llvm::raw_ostream&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) const@LLVM_8
+000000000077e4d0 R_X86_64_JUMP_SLOT  llvm::RegionPass::assignPassManager(llvm::PMStack&, llvm::PassManagerType)@LLVM_8
+000000000077e4d8 R_X86_64_JUMP_SLOT  llvm::RegionPass::preparePassManager(llvm::PMStack&)@LLVM_8
+000000000077e4e0 R_X86_64_JUMP_SLOT  llvm::BasicBlockPass::createPrinterPass(llvm::raw_ostream&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) const@LLVM_8
+000000000077e4e8 R_X86_64_JUMP_SLOT  llvm::BasicBlockPass::assignPassManager(llvm::PMStack&, llvm::PassManagerType)@LLVM_8
+000000000077e4f0 R_X86_64_JUMP_SLOT  llvm::BasicBlockPass::getPotentialPassManagerType() const@LLVM_8
+000000000077e4f8 R_X86_64_JUMP_SLOT  llvm::BasicBlockPass::doInitialization(llvm::Function&)@LLVM_8
+000000000077e500 R_X86_64_JUMP_SLOT  llvm::BasicBlockPass::doFinalization(llvm::Function&)@LLVM_8
+000000000077e508 R_X86_64_JUMP_SLOT  llvm::Instruction::getNumSuccessors() const@LLVM_8
+000000000077e510 R_X86_64_JUMP_SLOT  llvm::Instruction::getSuccessor(unsigned int) const@LLVM_8
+000000000077e518 R_X86_64_JUMP_SLOT  llvm::ValueHandleBase::AddToExistingUseList(llvm::ValueHandleBase**)@LLVM_8
+000000000077e520 R_X86_64_JUMP_SLOT  llvm::ValueHandleBase::RemoveFromUseList()@LLVM_8
+000000000077e528 R_X86_64_JUMP_SLOT  strlen@GLIBC_2.2.5
+000000000077e530 R_X86_64_JUMP_SLOT  llvm::PassNameParser::~PassNameParser()@LLVM_8
+000000000077e538 R_X86_64_JUMP_SLOT  llvm::InitLLVM::InitLLVM(int&, char const**&)@LLVM_8
+000000000077e540 R_X86_64_JUMP_SLOT  llvm::LLVMContext::LLVMContext()@LLVM_8
+000000000077e548 R_X86_64_JUMP_SLOT  LLVMInitializeAArch64TargetMC@LLVM_8
+000000000077e550 R_X86_64_JUMP_SLOT  LLVMInitializeAMDGPUTargetMC@LLVM_8
+000000000077e558 R_X86_64_JUMP_SLOT  LLVMInitializeARMTargetMC@LLVM_8
+000000000077e560 R_X86_64_JUMP_SLOT  LLVMInitializeBPFTargetMC@LLVM_8
+000000000077e568 R_X86_64_JUMP_SLOT  LLVMInitializeHexagonTargetMC@LLVM_8
+000000000077e570 R_X86_64_JUMP_SLOT  LLVMInitializeLanaiTargetMC@LLVM_8
+000000000077e578 R_X86_64_JUMP_SLOT  LLVMInitializeMipsTargetMC@LLVM_8
+000000000077e580 R_X86_64_JUMP_SLOT  LLVMInitializeMSP430TargetMC@LLVM_8
+000000000077e588 R_X86_64_JUMP_SLOT  LLVMInitializeNVPTXTargetMC@LLVM_8
+000000000077e590 R_X86_64_JUMP_SLOT  LLVMInitializePowerPCTargetMC@LLVM_8
+000000000077e598 R_X86_64_JUMP_SLOT  LLVMInitializeSparcTargetMC@LLVM_8
+000000000077e5a0 R_X86_64_JUMP_SLOT  LLVMInitializeSystemZTargetMC@LLVM_8
+000000000077e5a8 R_X86_64_JUMP_SLOT  LLVMInitializeWebAssemblyTargetMC@LLVM_8
+000000000077e5b0 R_X86_64_JUMP_SLOT  LLVMInitializeX86TargetMC@LLVM_8
+000000000077e5b8 R_X86_64_JUMP_SLOT  LLVMInitializeXCoreTargetMC@LLVM_8
+000000000077e5c0 R_X86_64_JUMP_SLOT  LLVMInitializeAVRTargetMC@LLVM_8
+000000000077e5c8 R_X86_64_JUMP_SLOT  LLVMInitializeAArch64AsmPrinter@LLVM_8
+000000000077e5d0 R_X86_64_JUMP_SLOT  LLVMInitializeAMDGPUAsmPrinter@LLVM_8
+000000000077e5d8 R_X86_64_JUMP_SLOT  LLVMInitializeARMAsmPrinter@LLVM_8
+000000000077e5e0 R_X86_64_JUMP_SLOT  LLVMInitializeBPFAsmPrinter@LLVM_8
+000000000077e5e8 R_X86_64_JUMP_SLOT  LLVMInitializeHexagonAsmPrinter@LLVM_8
+000000000077e5f0 R_X86_64_JUMP_SLOT  LLVMInitializeLanaiAsmPrinter@LLVM_8
+000000000077e5f8 R_X86_64_JUMP_SLOT  LLVMInitializeMipsAsmPrinter@LLVM_8
+000000000077e600 R_X86_64_JUMP_SLOT  LLVMInitializeMSP430AsmPrinter@LLVM_8
+000000000077e608 R_X86_64_JUMP_SLOT  LLVMInitializeNVPTXAsmPrinter@LLVM_8
+000000000077e610 R_X86_64_JUMP_SLOT  LLVMInitializePowerPCAsmPrinter@LLVM_8
+000000000077e618 R_X86_64_JUMP_SLOT  LLVMInitializeSparcAsmPrinter@LLVM_8
+000000000077e620 R_X86_64_JUMP_SLOT  LLVMInitializeSystemZAsmPrinter@LLVM_8
+000000000077e628 R_X86_64_JUMP_SLOT  LLVMInitializeWebAssemblyAsmPrinter@LLVM_8
+000000000077e630 R_X86_64_JUMP_SLOT  LLVMInitializeX86AsmPrinter@LLVM_8
+000000000077e638 R_X86_64_JUMP_SLOT  LLVMInitializeXCoreAsmPrinter@LLVM_8
+000000000077e640 R_X86_64_JUMP_SLOT  LLVMInitializeAVRAsmPrinter@LLVM_8
+000000000077e648 R_X86_64_JUMP_SLOT  LLVMInitializeAArch64AsmParser@LLVM_8
+000000000077e650 R_X86_64_JUMP_SLOT  LLVMInitializeAMDGPUAsmParser@LLVM_8
+000000000077e658 R_X86_64_JUMP_SLOT  LLVMInitializeARMAsmParser@LLVM_8
+000000000077e660 R_X86_64_JUMP_SLOT  LLVMInitializeBPFAsmParser@LLVM_8
+000000000077e668 R_X86_64_JUMP_SLOT  LLVMInitializeHexagonAsmParser@LLVM_8
+000000000077e670 R_X86_64_JUMP_SLOT  LLVMInitializeLanaiAsmParser@LLVM_8
+000000000077e678 R_X86_64_JUMP_SLOT  LLVMInitializeMipsAsmParser@LLVM_8
+000000000077e680 R_X86_64_JUMP_SLOT  LLVMInitializeMSP430AsmParser@LLVM_8
+000000000077e688 R_X86_64_JUMP_SLOT  LLVMInitializePowerPCAsmParser@LLVM_8
+000000000077e690 R_X86_64_JUMP_SLOT  LLVMInitializeSparcAsmParser@LLVM_8
+000000000077e698 R_X86_64_JUMP_SLOT  LLVMInitializeSystemZAsmParser@LLVM_8
+000000000077e6a0 R_X86_64_JUMP_SLOT  LLVMInitializeWebAssemblyAsmParser@LLVM_8
+000000000077e6a8 R_X86_64_JUMP_SLOT  LLVMInitializeX86AsmParser@LLVM_8
+000000000077e6b0 R_X86_64_JUMP_SLOT  LLVMInitializeAVRAsmParser@LLVM_8
+000000000077e6b8 R_X86_64_JUMP_SLOT  llvm::initializeCore(llvm::PassRegistry&)@LLVM_8
+000000000077e6c0 R_X86_64_JUMP_SLOT  llvm::initializeCoroutines(llvm::PassRegistry&)@LLVM_8
+000000000077e6c8 R_X86_64_JUMP_SLOT  llvm::initializeScalarOpts(llvm::PassRegistry&)@LLVM_8
+000000000077e6d0 R_X86_64_JUMP_SLOT  llvm::initializeObjCARCOpts(llvm::PassRegistry&)@LLVM_8
+000000000077e6d8 R_X86_64_JUMP_SLOT  llvm::initializeVectorization(llvm::PassRegistry&)@LLVM_8
+000000000077e6e0 R_X86_64_JUMP_SLOT  llvm::initializeIPO(llvm::PassRegistry&)@LLVM_8
+000000000077e6e8 R_X86_64_JUMP_SLOT  llvm::initializeAnalysis(llvm::PassRegistry&)@LLVM_8
+000000000077e6f0 R_X86_64_JUMP_SLOT  llvm::initializeTransformUtils(llvm::PassRegistry&)@LLVM_8
+000000000077e6f8 R_X86_64_JUMP_SLOT  llvm::initializeInstCombine(llvm::PassRegistry&)@LLVM_8
+000000000077e700 R_X86_64_JUMP_SLOT  llvm::initializeAggressiveInstCombine(llvm::PassRegistry&)@LLVM_8
+000000000077e708 R_X86_64_JUMP_SLOT  llvm::initializeInstrumentation(llvm::PassRegistry&)@LLVM_8
+000000000077e710 R_X86_64_JUMP_SLOT  llvm::initializeTarget(llvm::PassRegistry&)@LLVM_8
+000000000077e718 R_X86_64_JUMP_SLOT  llvm::initializeExpandMemCmpPassPass(llvm::PassRegistry&)@LLVM_8
+000000000077e720 R_X86_64_JUMP_SLOT  llvm::initializeScalarizeMaskedMemIntrinPass(llvm::PassRegistry&)@LLVM_8
+000000000077e728 R_X86_64_JUMP_SLOT  llvm::initializeCodeGenPreparePass(llvm::PassRegistry&)@LLVM_8
+000000000077e730 R_X86_64_JUMP_SLOT  llvm::initializeAtomicExpandPass(llvm::PassRegistry&)@LLVM_8
+000000000077e738 R_X86_64_JUMP_SLOT  llvm::initializeRewriteSymbolsLegacyPassPass(llvm::PassRegistry&)@LLVM_8
+000000000077e740 R_X86_64_JUMP_SLOT  llvm::initializeWinEHPreparePass(llvm::PassRegistry&)@LLVM_8
+000000000077e748 R_X86_64_JUMP_SLOT  llvm::initializeDwarfEHPreparePass(llvm::PassRegistry&)@LLVM_8
+000000000077e750 R_X86_64_JUMP_SLOT  llvm::initializeSafeStackLegacyPassPass(llvm::PassRegistry&)@LLVM_8
+000000000077e758 R_X86_64_JUMP_SLOT  llvm::initializeSjLjEHPreparePass(llvm::PassRegistry&)@LLVM_8
+000000000077e760 R_X86_64_JUMP_SLOT  llvm::initializePreISelIntrinsicLoweringLegacyPassPass(llvm::PassRegistry&)@LLVM_8
+000000000077e768 R_X86_64_JUMP_SLOT  llvm::initializeGlobalMergePass(llvm::PassRegistry&)@LLVM_8
+000000000077e770 R_X86_64_JUMP_SLOT  llvm::initializeIndirectBrExpandPassPass(llvm::PassRegistry&)@LLVM_8
+000000000077e778 R_X86_64_JUMP_SLOT  llvm::initializeInterleavedLoadCombinePass(llvm::PassRegistry&)@LLVM_8
+000000000077e780 R_X86_64_JUMP_SLOT  llvm::initializeInterleavedAccessPass(llvm::PassRegistry&)@LLVM_8
+000000000077e788 R_X86_64_JUMP_SLOT  llvm::initializeEntryExitInstrumenterPass(llvm::PassRegistry&)@LLVM_8
+000000000077e790 R_X86_64_JUMP_SLOT  llvm::initializePostInlineEntryExitInstrumenterPass(llvm::PassRegistry&)@LLVM_8
+000000000077e798 R_X86_64_JUMP_SLOT  llvm::initializeUnreachableBlockElimLegacyPassPass(llvm::PassRegistry&)@LLVM_8
+000000000077e7a0 R_X86_64_JUMP_SLOT  llvm::initializeExpandReductionsPass(llvm::PassRegistry&)@LLVM_8
+000000000077e7a8 R_X86_64_JUMP_SLOT  llvm::initializeWasmEHPreparePass(llvm::PassRegistry&)@LLVM_8
+000000000077e7b0 R_X86_64_JUMP_SLOT  llvm::initializeWriteBitcodePassPass(llvm::PassRegistry&)@LLVM_8
+000000000077e7b8 R_X86_64_JUMP_SLOT  llvm::cl::ParseCommandLineOptions(int, char const* const*, llvm::StringRef, llvm::raw_ostream*, char const*)@LLVM_8
+000000000077e7c0 R_X86_64_JUMP_SLOT  llvm::LLVMContext::setDiscardValueNames(bool)@LLVM_8
+000000000077e7c8 R_X86_64_JUMP_SLOT  llvm::LLVMContext::enableDebugTypeODRUniquing()@LLVM_8
+000000000077e7d0 R_X86_64_JUMP_SLOT  llvm::LLVMContext::setDiagnosticsHotnessRequested(bool)@LLVM_8
+000000000077e7d8 R_X86_64_JUMP_SLOT  llvm::LLVMContext::setDiagnosticsHotnessThreshold(unsigned long)@LLVM_8
+000000000077e7e0 R_X86_64_JUMP_SLOT  std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::compare(char const*) const@GLIBCXX_3.4.21
+000000000077e7e8 R_X86_64_JUMP_SLOT  llvm::ToolOutputFile::ToolOutputFile(llvm::StringRef, std::error_code&, llvm::sys::fs::OpenFlags)@LLVM_8
+000000000077e7f0 R_X86_64_JUMP_SLOT  llvm::yaml::Output::Output(llvm::raw_ostream&, void*, int)@LLVM_8
+000000000077e7f8 R_X86_64_JUMP_SLOT  llvm::LLVMContext::setDiagnosticsOutputFile(std::unique_ptr<llvm::yaml::Output, std::default_delete<llvm::yaml::Output> >)@LLVM_8
+000000000077e800 R_X86_64_JUMP_SLOT  llvm::parseIRFile(llvm::StringRef, llvm::SMDiagnostic&, llvm::LLVMContext&, bool, llvm::StringRef)@LLVM_8
+000000000077e808 R_X86_64_JUMP_SLOT  llvm::Triple::normalize[abi:cxx11](llvm::StringRef)@LLVM_8
+000000000077e810 R_X86_64_JUMP_SLOT  llvm::verifyModule(llvm::Module const&, llvm::raw_ostream*, bool*)@LLVM_8
+000000000077e818 R_X86_64_JUMP_SLOT  llvm::SMDiagnostic::print(char const*, llvm::raw_ostream&, bool, bool) const@LLVM_8
+000000000077e820 R_X86_64_JUMP_SLOT  llvm::Triple::Triple(llvm::Twine const&)@LLVM_8
+000000000077e828 R_X86_64_JUMP_SLOT  llvm::MCTargetOptions::MCTargetOptions()@LLVM_8
+000000000077e830 R_X86_64_JUMP_SLOT  std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_assign(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)@GLIBCXX_3.4.21
+000000000077e838 R_X86_64_JUMP_SLOT  llvm::sys::getHostCPUName()@LLVM_8
+000000000077e840 R_X86_64_JUMP_SLOT  llvm::SubtargetFeatures::SubtargetFeatures(llvm::StringRef)@LLVM_8
+000000000077e848 R_X86_64_JUMP_SLOT  llvm::sys::getHostCPUFeatures(llvm::StringMap<bool, llvm::MallocAllocator>&)@LLVM_8
+000000000077e850 R_X86_64_JUMP_SLOT  llvm::SubtargetFeatures::AddFeature(llvm::StringRef, bool)@LLVM_8
+000000000077e858 R_X86_64_JUMP_SLOT  llvm::SubtargetFeatures::getString[abi:cxx11]() const@LLVM_8
+000000000077e860 R_X86_64_JUMP_SLOT  llvm::TargetRegistry::lookupTarget(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, llvm::Triple&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&)@LLVM_8
+000000000077e868 R_X86_64_JUMP_SLOT  llvm::Function::getContext() const@LLVM_8
+000000000077e870 R_X86_64_JUMP_SLOT  llvm::AttrBuilder::addAttribute(llvm::StringRef, llvm::StringRef)@LLVM_8
+000000000077e878 R_X86_64_JUMP_SLOT  llvm::Attribute::get(llvm::LLVMContext&, llvm::StringRef, llvm::StringRef)@LLVM_8
+000000000077e880 R_X86_64_JUMP_SLOT  llvm::Value::getContext() const@LLVM_8
+000000000077e888 R_X86_64_JUMP_SLOT  llvm::AttributeList::addAttribute(llvm::LLVMContext&, unsigned int, llvm::Attribute) const@LLVM_8
+000000000077e890 R_X86_64_JUMP_SLOT  llvm::AttributeList::addAttributes(llvm::LLVMContext&, unsigned int, llvm::AttrBuilder const&) const@LLVM_8
+000000000077e898 R_X86_64_JUMP_SLOT  llvm::CheckBitcodeOutputToConsole(llvm::raw_ostream&, bool)@LLVM_8
+000000000077e8a0 R_X86_64_JUMP_SLOT  llvm::legacy::PassManager::PassManager()@LLVM_8
+000000000077e8a8 R_X86_64_JUMP_SLOT  llvm::TargetLibraryInfoImpl::TargetLibraryInfoImpl(llvm::Triple const&)@LLVM_8
+000000000077e8b0 R_X86_64_JUMP_SLOT  llvm::TargetLibraryInfoImpl::disableAllFunctions()@LLVM_8
+000000000077e8b8 R_X86_64_JUMP_SLOT  llvm::TargetLibraryInfoWrapperPass::TargetLibraryInfoWrapperPass(llvm::TargetLibraryInfoImpl const&)@LLVM_8
+000000000077e8c0 R_X86_64_JUMP_SLOT  llvm::TargetMachine::getTargetIRAnalysis()@LLVM_8
+000000000077e8c8 R_X86_64_JUMP_SLOT  llvm::ToolOutputFile::CleanupInstaller::~CleanupInstaller()@LLVM_8
+000000000077e8d0 R_X86_64_JUMP_SLOT  llvm::Module::~Module()@LLVM_8
+000000000077e8d8 R_X86_64_JUMP_SLOT  llvm::LLVMContext::~LLVMContext()@LLVM_8
+000000000077e8e0 R_X86_64_JUMP_SLOT  llvm::InitLLVM::~InitLLVM()@LLVM_8
+000000000077e8e8 R_X86_64_JUMP_SLOT  llvm::TargetIRAnalysis::TargetIRAnalysis()@LLVM_8
+000000000077e8f0 R_X86_64_JUMP_SLOT  llvm::createTargetTransformInfoWrapperPass(llvm::TargetIRAnalysis)@LLVM_8
+000000000077e8f8 R_X86_64_JUMP_SLOT  llvm::legacy::FunctionPassManager::FunctionPassManager(llvm::Module*)@LLVM_8
+000000000077e900 R_X86_64_JUMP_SLOT  llvm::PassManagerBuilder::PassManagerBuilder()@LLVM_8
+000000000077e908 R_X86_64_JUMP_SLOT  llvm::createFunctionInliningPass()@LLVM_8
+000000000077e910 R_X86_64_JUMP_SLOT  llvm::PassManagerBuilder::populateLTOPassManager(llvm::legacy::PassManagerBase&)@LLVM_8
+000000000077e918 R_X86_64_JUMP_SLOT  llvm::PassManagerBuilder::~PassManagerBuilder()@LLVM_8
+000000000077e920 R_X86_64_JUMP_SLOT  llvm::createVerifierPass(bool)@LLVM_8
+000000000077e928 R_X86_64_JUMP_SLOT  llvm::createPrintModulePass(llvm::raw_ostream&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, bool)@LLVM_8
+000000000077e930 R_X86_64_JUMP_SLOT  llvm::legacy::FunctionPassManager::doInitialization()@LLVM_8
+000000000077e938 R_X86_64_JUMP_SLOT  llvm::legacy::FunctionPassManager::run(llvm::Function&)@LLVM_8
+000000000077e940 R_X86_64_JUMP_SLOT  llvm::legacy::FunctionPassManager::doFinalization()@LLVM_8
+000000000077e948 R_X86_64_JUMP_SLOT  llvm::raw_ostream::SetBufferAndMode(char*, unsigned long, llvm::raw_ostream::BufferKind)@LLVM_8
+000000000077e950 R_X86_64_JUMP_SLOT  llvm::createWriteThinLTOBitcodePass(llvm::raw_ostream&, llvm::raw_ostream*)@LLVM_8
+000000000077e958 R_X86_64_JUMP_SLOT  llvm::createBitcodeWriterPass(llvm::raw_ostream&, bool, bool, bool)@LLVM_8
+000000000077e960 R_X86_64_JUMP_SLOT  llvm::CloneModule(llvm::Module const&)@LLVM_8
+000000000077e968 R_X86_64_JUMP_SLOT  llvm::legacy::PassManager::run(llvm::Module&)@LLVM_8
+000000000077e970 R_X86_64_JUMP_SLOT  llvm::legacy::PassManager::~PassManager()@LLVM_8
+000000000077e978 R_X86_64_JUMP_SLOT  llvm::report_fatal_error(char const*, bool)@LLVM_8
+000000000077e980 R_X86_64_JUMP_SLOT  LLVMInitializeAArch64TargetInfo@LLVM_8
+000000000077e988 R_X86_64_JUMP_SLOT  LLVMInitializeAMDGPUTargetInfo@LLVM_8
+000000000077e990 R_X86_64_JUMP_SLOT  LLVMInitializeARMTargetInfo@LLVM_8
+000000000077e998 R_X86_64_JUMP_SLOT  LLVMInitializeBPFTargetInfo@LLVM_8
+000000000077e9a0 R_X86_64_JUMP_SLOT  LLVMInitializeHexagonTargetInfo@LLVM_8
+000000000077e9a8 R_X86_64_JUMP_SLOT  LLVMInitializeLanaiTargetInfo@LLVM_8
+000000000077e9b0 R_X86_64_JUMP_SLOT  LLVMInitializeMipsTargetInfo@LLVM_8
+000000000077e9b8 R_X86_64_JUMP_SLOT  LLVMInitializeMSP430TargetInfo@LLVM_8
+000000000077e9c0 R_X86_64_JUMP_SLOT  LLVMInitializeNVPTXTargetInfo@LLVM_8
+000000000077e9c8 R_X86_64_JUMP_SLOT  LLVMInitializePowerPCTargetInfo@LLVM_8
+000000000077e9d0 R_X86_64_JUMP_SLOT  LLVMInitializeSparcTargetInfo@LLVM_8
+000000000077e9d8 R_X86_64_JUMP_SLOT  LLVMInitializeSystemZTargetInfo@LLVM_8
+000000000077e9e0 R_X86_64_JUMP_SLOT  LLVMInitializeWebAssemblyTargetInfo@LLVM_8
+000000000077e9e8 R_X86_64_JUMP_SLOT  LLVMInitializeX86TargetInfo@LLVM_8
+000000000077e9f0 R_X86_64_JUMP_SLOT  LLVMInitializeXCoreTargetInfo@LLVM_8
+000000000077e9f8 R_X86_64_JUMP_SLOT  LLVMInitializeAVRTargetInfo@LLVM_8
+000000000077ea00 R_X86_64_JUMP_SLOT  LLVMInitializeAArch64Target@LLVM_8
+000000000077ea08 R_X86_64_JUMP_SLOT  LLVMInitializeAMDGPUTarget@LLVM_8
+000000000077ea10 R_X86_64_JUMP_SLOT  LLVMInitializeARMTarget@LLVM_8
+000000000077ea18 R_X86_64_JUMP_SLOT  LLVMInitializeBPFTarget@LLVM_8
+000000000077ea20 R_X86_64_JUMP_SLOT  LLVMInitializeHexagonTarget@LLVM_8
+000000000077ea28 R_X86_64_JUMP_SLOT  LLVMInitializeLanaiTarget@LLVM_8
+000000000077ea30 R_X86_64_JUMP_SLOT  LLVMInitializeMipsTarget@LLVM_8
+000000000077ea38 R_X86_64_JUMP_SLOT  LLVMInitializeMSP430Target@LLVM_8
+000000000077ea40 R_X86_64_JUMP_SLOT  LLVMInitializeNVPTXTarget@LLVM_8
+000000000077ea48 R_X86_64_JUMP_SLOT  LLVMInitializePowerPCTarget@LLVM_8
+000000000077ea50 R_X86_64_JUMP_SLOT  LLVMInitializeSparcTarget@LLVM_8
+000000000077ea58 R_X86_64_JUMP_SLOT  LLVMInitializeSystemZTarget@LLVM_8
+000000000077ea60 R_X86_64_JUMP_SLOT  LLVMInitializeWebAssemblyTarget@LLVM_8
+000000000077ea68 R_X86_64_JUMP_SLOT  LLVMInitializeX86Target@LLVM_8
+000000000077ea70 R_X86_64_JUMP_SLOT  LLVMInitializeXCoreTarget@LLVM_8
+000000000077ea78 R_X86_64_JUMP_SLOT  LLVMInitializeAVRTarget@LLVM_8
+000000000077ea80 R_X86_64_JUMP_SLOT  llvm::isIRPrintingPass(llvm::Pass*)@LLVM_8
+000000000077ea88 R_X86_64_JUMP_SLOT  llvm::isBitcodeWriterPass(llvm::Pass*)@LLVM_8
+000000000077ea90 R_X86_64_JUMP_SLOT  llvm::legacy::PassManager::add(llvm::Pass*)@LLVM_8
+000000000077ea98 R_X86_64_JUMP_SLOT  llvm::createFunctionInliningPass(unsigned int, unsigned int, bool)@LLVM_8
+000000000077eaa0 R_X86_64_JUMP_SLOT  llvm::createAlwaysInlinerLegacyPass(bool)@LLVM_8
+000000000077eaa8 R_X86_64_JUMP_SLOT  llvm::addCoroutinePassesToExtensionPoints(llvm::PassManagerBuilder&)@LLVM_8
+000000000077eab0 R_X86_64_JUMP_SLOT  llvm::PassManagerBuilder::populateFunctionPassManager(llvm::legacy::FunctionPassManager&)@LLVM_8
+000000000077eab8 R_X86_64_JUMP_SLOT  llvm::PassManagerBuilder::populateModulePassManager(llvm::legacy::PassManagerBase&)@LLVM_8
+000000000077eac0 R_X86_64_JUMP_SLOT  llvm::AliasSetTracker::clear()@LLVM_8
+000000000077eac8 R_X86_64_JUMP_SLOT  llvm::AliasSetTracker::ASTCallbackVH::ASTCallbackVH(llvm::Value*, llvm::AliasSetTracker*)@LLVM_8
+000000000077ead0 R_X86_64_JUMP_SLOT  qsort@GLIBC_2.2.5
+000000000077ead8 R_X86_64_JUMP_SLOT  llvm::SmallPtrSetImplBase::CopyFrom(llvm::SmallPtrSetImplBase const&)@LLVM_8
+000000000077eae0 R_X86_64_JUMP_SLOT  llvm::PluginLoader::operator=(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)@LLVM_8
+000000000077eae8 R_X86_64_JUMP_SLOT  llvm::cl::basic_parser_impl::printOptionNoValue(llvm::cl::Option const&, unsigned long) const@LLVM_8
+000000000077eaf0 R_X86_64_JUMP_SLOT  getenv@GLIBC_2.2.5
+000000000077eaf8 R_X86_64_JUMP_SLOT  llvm::Module::Module(llvm::StringRef, llvm::LLVMContext&)@LLVM_8
+000000000077eb00 R_X86_64_JUMP_SLOT  llvm::User::operator new(unsigned long, unsigned int)@LLVM_8
+000000000077eb08 R_X86_64_JUMP_SLOT  llvm::UnreachableInst::UnreachableInst(llvm::LLVMContext&, llvm::Instruction*)@LLVM_8
+000000000077eb10 R_X86_64_JUMP_SLOT  llvm::createAAEvalPass()@LLVM_8
+000000000077eb18 R_X86_64_JUMP_SLOT  llvm::createAggressiveDCEPass()@LLVM_8
+000000000077eb20 R_X86_64_JUMP_SLOT  llvm::createAggressiveInstCombinerPass()@LLVM_8
+000000000077eb28 R_X86_64_JUMP_SLOT  llvm::createBitTrackingDCEPass()@LLVM_8
+000000000077eb30 R_X86_64_JUMP_SLOT  llvm::createArgumentPromotionPass(unsigned int)@LLVM_8
+000000000077eb38 R_X86_64_JUMP_SLOT  llvm::createAlignmentFromAssumptionsPass()@LLVM_8
+000000000077eb40 R_X86_64_JUMP_SLOT  llvm::createBasicAAWrapperPass()@LLVM_8
+000000000077eb48 R_X86_64_JUMP_SLOT  llvm::createSCEVAAWrapperPass()@LLVM_8
+000000000077eb50 R_X86_64_JUMP_SLOT  llvm::createTypeBasedAAWrapperPass()@LLVM_8
+000000000077eb58 R_X86_64_JUMP_SLOT  llvm::createScopedNoAliasAAWrapperPass()@LLVM_8
+000000000077eb60 R_X86_64_JUMP_SLOT  llvm::createBoundsCheckingLegacyPass()@LLVM_8
+000000000077eb68 R_X86_64_JUMP_SLOT  llvm::createBreakCriticalEdgesPass()@LLVM_8
+000000000077eb70 R_X86_64_JUMP_SLOT  llvm::createCallGraphDOTPrinterPass()@LLVM_8
+000000000077eb78 R_X86_64_JUMP_SLOT  llvm::createCallGraphViewerPass()@LLVM_8
+000000000077eb80 R_X86_64_JUMP_SLOT  llvm::createCFGSimplificationPass(unsigned int, bool, bool, bool, bool, std::function<bool (llvm::Function const&)>)@LLVM_8
+000000000077eb88 R_X86_64_JUMP_SLOT  llvm::createCFLAndersAAWrapperPass()@LLVM_8
+000000000077eb90 R_X86_64_JUMP_SLOT  llvm::createCFLSteensAAWrapperPass()@LLVM_8
+000000000077eb98 R_X86_64_JUMP_SLOT  llvm::createStructurizeCFGPass(bool)@LLVM_8
+000000000077eba0 R_X86_64_JUMP_SLOT  llvm::createLibCallsShrinkWrapPass()@LLVM_8
+000000000077eba8 R_X86_64_JUMP_SLOT  llvm::createCalledValuePropagationPass()@LLVM_8
+000000000077ebb0 R_X86_64_JUMP_SLOT  llvm::createConstantMergePass()@LLVM_8
+000000000077ebb8 R_X86_64_JUMP_SLOT  llvm::createConstantPropagationPass()@LLVM_8
+000000000077ebc0 R_X86_64_JUMP_SLOT  llvm::createControlHeightReductionLegacyPass()@LLVM_8
+000000000077ebc8 R_X86_64_JUMP_SLOT  llvm::createCostModelAnalysisPass()@LLVM_8
+000000000077ebd0 R_X86_64_JUMP_SLOT  llvm::createDeadArgEliminationPass()@LLVM_8
+000000000077ebd8 R_X86_64_JUMP_SLOT  llvm::createDeadCodeEliminationPass()@LLVM_8
+000000000077ebe0 R_X86_64_JUMP_SLOT  llvm::createDeadInstEliminationPass()@LLVM_8
+000000000077ebe8 R_X86_64_JUMP_SLOT  llvm::createDeadStoreEliminationPass()@LLVM_8
+000000000077ebf0 R_X86_64_JUMP_SLOT  llvm::createDependenceAnalysisWrapperPass()@LLVM_8
+000000000077ebf8 R_X86_64_JUMP_SLOT  llvm::createDomOnlyPrinterPass()@LLVM_8
+000000000077ec00 R_X86_64_JUMP_SLOT  llvm::createDomPrinterPass()@LLVM_8
+000000000077ec08 R_X86_64_JUMP_SLOT  llvm::createDomOnlyViewerPass()@LLVM_8
+000000000077ec10 R_X86_64_JUMP_SLOT  llvm::createDomViewerPass()@LLVM_8
+000000000077ec18 R_X86_64_JUMP_SLOT  llvm::GCOVOptions::getDefault()@LLVM_8
+000000000077ec20 R_X86_64_JUMP_SLOT  llvm::createGCOVProfilerPass(llvm::GCOVOptions const&)@LLVM_8
+000000000077ec28 R_X86_64_JUMP_SLOT  llvm::createPGOInstrumentationGenLegacyPass()@LLVM_8
+000000000077ec30 R_X86_64_JUMP_SLOT  llvm::createPGOInstrumentationUseLegacyPass(llvm::StringRef)@LLVM_8
+000000000077ec38 R_X86_64_JUMP_SLOT  llvm::createPGOIndirectCallPromotionLegacyPass(bool, bool)@LLVM_8
+000000000077ec40 R_X86_64_JUMP_SLOT  llvm::createPGOMemOPSizeOptLegacyPass()@LLVM_8
+000000000077ec48 R_X86_64_JUMP_SLOT  llvm::createInstrProfilingLegacyPass(llvm::InstrProfOptions const&)@LLVM_8
+000000000077ec50 R_X86_64_JUMP_SLOT  llvm::createFunctionImportPass()@LLVM_8
+000000000077ec58 R_X86_64_JUMP_SLOT  llvm::createGlobalDCEPass()@LLVM_8
+000000000077ec60 R_X86_64_JUMP_SLOT  llvm::createGlobalOptimizerPass()@LLVM_8
+000000000077ec68 R_X86_64_JUMP_SLOT  llvm::createGlobalsAAWrapperPass()@LLVM_8
+000000000077ec70 R_X86_64_JUMP_SLOT  llvm::createGuardWideningPass()@LLVM_8
+000000000077ec78 R_X86_64_JUMP_SLOT  llvm::createLoopGuardWideningPass()@LLVM_8
+000000000077ec80 R_X86_64_JUMP_SLOT  llvm::createIPConstantPropagationPass()@LLVM_8
+000000000077ec88 R_X86_64_JUMP_SLOT  llvm::createIPSCCPPass()@LLVM_8
+000000000077ec90 R_X86_64_JUMP_SLOT  llvm::createInductiveRangeCheckEliminationPass()@LLVM_8
+000000000077ec98 R_X86_64_JUMP_SLOT  llvm::createIndVarSimplifyPass()@LLVM_8
+000000000077eca0 R_X86_64_JUMP_SLOT  llvm::createInstSimplifyLegacyPass()@LLVM_8
+000000000077eca8 R_X86_64_JUMP_SLOT  llvm::createInstructionCombiningPass(bool)@LLVM_8
+000000000077ecb0 R_X86_64_JUMP_SLOT  llvm::createInternalizePass()@LLVM_8
+000000000077ecb8 R_X86_64_JUMP_SLOT  llvm::createLCSSAPass()@LLVM_8
+000000000077ecc0 R_X86_64_JUMP_SLOT  llvm::createLegacyDivergenceAnalysisPass()@LLVM_8
+000000000077ecc8 R_X86_64_JUMP_SLOT  llvm::createLICMPass()@LLVM_8
+000000000077ecd0 R_X86_64_JUMP_SLOT  llvm::createLoopSinkPass()@LLVM_8
+000000000077ecd8 R_X86_64_JUMP_SLOT  llvm::createLazyValueInfoPass()@LLVM_8
+000000000077ece0 R_X86_64_JUMP_SLOT  llvm::createLoopExtractorPass()@LLVM_8
+000000000077ece8 R_X86_64_JUMP_SLOT  llvm::createLoopInterchangePass()@LLVM_8
+000000000077ecf0 R_X86_64_JUMP_SLOT  llvm::createLoopPredicationPass()@LLVM_8
+000000000077ecf8 R_X86_64_JUMP_SLOT  llvm::createLoopSimplifyPass()@LLVM_8
+000000000077ed00 R_X86_64_JUMP_SLOT  llvm::createLoopSimplifyCFGPass()@LLVM_8
+000000000077ed08 R_X86_64_JUMP_SLOT  llvm::createLoopStrengthReducePass()@LLVM_8
+000000000077ed10 R_X86_64_JUMP_SLOT  llvm::createLoopRerollPass()@LLVM_8
+000000000077ed18 R_X86_64_JUMP_SLOT  llvm::createLoopUnrollPass(int, bool, int, int, int, int, int, int)@LLVM_8
+000000000077ed20 R_X86_64_JUMP_SLOT  llvm::createLoopUnrollAndJamPass(int)@LLVM_8
+000000000077ed28 R_X86_64_JUMP_SLOT  llvm::createLoopUnswitchPass(bool, bool)@LLVM_8
+000000000077ed30 R_X86_64_JUMP_SLOT  llvm::createLoopVersioningLICMPass()@LLVM_8
+000000000077ed38 R_X86_64_JUMP_SLOT  llvm::createLoopIdiomPass()@LLVM_8
+000000000077ed40 R_X86_64_JUMP_SLOT  llvm::createLoopRotatePass(int)@LLVM_8
+000000000077ed48 R_X86_64_JUMP_SLOT  llvm::createLowerExpectIntrinsicPass()@LLVM_8
+000000000077ed50 R_X86_64_JUMP_SLOT  llvm::createLowerInvokePass()@LLVM_8
+000000000077ed58 R_X86_64_JUMP_SLOT  llvm::createLowerSwitchPass()@LLVM_8
+000000000077ed60 R_X86_64_JUMP_SLOT  llvm::createNaryReassociatePass()@LLVM_8
+000000000077ed68 R_X86_64_JUMP_SLOT  llvm::createObjCARCAAWrapperPass()@LLVM_8
+000000000077ed70 R_X86_64_JUMP_SLOT  llvm::createObjCARCAPElimPass()@LLVM_8
+000000000077ed78 R_X86_64_JUMP_SLOT  llvm::createObjCARCExpandPass()@LLVM_8
+000000000077ed80 R_X86_64_JUMP_SLOT  llvm::createObjCARCContractPass()@LLVM_8
+000000000077ed88 R_X86_64_JUMP_SLOT  llvm::createObjCARCOptPass()@LLVM_8
+000000000077ed90 R_X86_64_JUMP_SLOT  llvm::createPAEvalPass()@LLVM_8
+000000000077ed98 R_X86_64_JUMP_SLOT  llvm::createPromoteMemoryToRegisterPass()@LLVM_8
+000000000077eda0 R_X86_64_JUMP_SLOT  llvm::createDemoteRegisterToMemoryPass()@LLVM_8
+000000000077eda8 R_X86_64_JUMP_SLOT  llvm::createPruneEHPass()@LLVM_8
+000000000077edb0 R_X86_64_JUMP_SLOT  llvm::createPostDomOnlyPrinterPass()@LLVM_8
+000000000077edb8 R_X86_64_JUMP_SLOT  llvm::createPostDomPrinterPass()@LLVM_8
+000000000077edc0 R_X86_64_JUMP_SLOT  llvm::createPostDomOnlyViewerPass()@LLVM_8
+000000000077edc8 R_X86_64_JUMP_SLOT  llvm::createPostDomViewerPass()@LLVM_8
+000000000077edd0 R_X86_64_JUMP_SLOT  llvm::createReassociatePass()@LLVM_8
+000000000077edd8 R_X86_64_JUMP_SLOT  llvm::createRegionInfoPass()@LLVM_8
+000000000077ede0 R_X86_64_JUMP_SLOT  llvm::createRegionOnlyPrinterPass()@LLVM_8
+000000000077ede8 R_X86_64_JUMP_SLOT  llvm::createRegionOnlyViewerPass()@LLVM_8
+000000000077edf0 R_X86_64_JUMP_SLOT  llvm::createRegionPrinterPass()@LLVM_8
+000000000077edf8 R_X86_64_JUMP_SLOT  llvm::createRegionViewerPass()@LLVM_8
+000000000077ee00 R_X86_64_JUMP_SLOT  llvm::createSCCPPass()@LLVM_8
+000000000077ee08 R_X86_64_JUMP_SLOT  llvm::createSafeStackPass()@LLVM_8
+000000000077ee10 R_X86_64_JUMP_SLOT  llvm::createSROAPass()@LLVM_8
+000000000077ee18 R_X86_64_JUMP_SLOT  llvm::createSingleLoopExtractorPass()@LLVM_8
+000000000077ee20 R_X86_64_JUMP_SLOT  llvm::createStripSymbolsPass(bool)@LLVM_8
+000000000077ee28 R_X86_64_JUMP_SLOT  llvm::createStripNonDebugSymbolsPass()@LLVM_8
+000000000077ee30 R_X86_64_JUMP_SLOT  llvm::createStripDeadDebugInfoPass()@LLVM_8
+000000000077ee38 R_X86_64_JUMP_SLOT  llvm::createStripDeadPrototypesPass()@LLVM_8
+000000000077ee40 R_X86_64_JUMP_SLOT  llvm::createTailCallEliminationPass()@LLVM_8
+000000000077ee48 R_X86_64_JUMP_SLOT  llvm::createJumpThreadingPass(int)@LLVM_8
+000000000077ee50 R_X86_64_JUMP_SLOT  llvm::createUnifyFunctionExitNodesPass()@LLVM_8
+000000000077ee58 R_X86_64_JUMP_SLOT  llvm::createInstCountPass()@LLVM_8
+000000000077ee60 R_X86_64_JUMP_SLOT  llvm::createConstantHoistingPass()@LLVM_8
+000000000077ee68 R_X86_64_JUMP_SLOT  llvm::createCodeGenPreparePass()@LLVM_8
+000000000077ee70 R_X86_64_JUMP_SLOT  llvm::createEntryExitInstrumenterPass()@LLVM_8
+000000000077ee78 R_X86_64_JUMP_SLOT  llvm::createPostInlineEntryExitInstrumenterPass()@LLVM_8
+000000000077ee80 R_X86_64_JUMP_SLOT  llvm::createEarlyCSEPass(bool)@LLVM_8
+000000000077ee88 R_X86_64_JUMP_SLOT  llvm::createGVNHoistPass()@LLVM_8
+000000000077ee90 R_X86_64_JUMP_SLOT  llvm::createMergedLoadStoreMotionPass()@LLVM_8
+000000000077ee98 R_X86_64_JUMP_SLOT  llvm::createGVNPass(bool)@LLVM_8
+000000000077eea0 R_X86_64_JUMP_SLOT  llvm::createNewGVNPass()@LLVM_8
+000000000077eea8 R_X86_64_JUMP_SLOT  llvm::createMemCpyOptPass()@LLVM_8
+000000000077eeb0 R_X86_64_JUMP_SLOT  llvm::createLoopDeletionPass()@LLVM_8
+000000000077eeb8 R_X86_64_JUMP_SLOT  llvm::createPostDomTree()@LLVM_8
+000000000077eec0 R_X86_64_JUMP_SLOT  llvm::createInstructionNamerPass()@LLVM_8
+000000000077eec8 R_X86_64_JUMP_SLOT  llvm::createMetaRenamerPass()@LLVM_8
+000000000077eed0 R_X86_64_JUMP_SLOT  llvm::createPostOrderFunctionAttrsLegacyPass()@LLVM_8
+000000000077eed8 R_X86_64_JUMP_SLOT  llvm::createReversePostOrderFunctionAttrsPass()@LLVM_8
+000000000077eee0 R_X86_64_JUMP_SLOT  llvm::createMergeFunctionsPass()@LLVM_8
+000000000077eee8 R_X86_64_JUMP_SLOT  llvm::createMergeICmpsPass()@LLVM_8
+000000000077eef0 R_X86_64_JUMP_SLOT  llvm::createExpandMemCmpPass()@LLVM_8
+000000000077eef8 R_X86_64_JUMP_SLOT  llvm::createPrintFunctionPass(llvm::raw_ostream&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)@LLVM_8
+000000000077ef00 R_X86_64_JUMP_SLOT  llvm::createPrintBasicBlockPass(llvm::raw_ostream&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)@LLVM_8
+000000000077ef08 R_X86_64_JUMP_SLOT  llvm::createModuleDebugInfoPrinterPass()@LLVM_8
+000000000077ef10 R_X86_64_JUMP_SLOT  llvm::createPartialInliningPass()@LLVM_8
+000000000077ef18 R_X86_64_JUMP_SLOT  llvm::createLintPass()@LLVM_8
+000000000077ef20 R_X86_64_JUMP_SLOT  llvm::createSinkingPass()@LLVM_8
+000000000077ef28 R_X86_64_JUMP_SLOT  llvm::createLowerAtomicPass()@LLVM_8
+000000000077ef30 R_X86_64_JUMP_SLOT  llvm::createCorrelatedValuePropagationPass()@LLVM_8
+000000000077ef38 R_X86_64_JUMP_SLOT  llvm::createMemDepPrinter()@LLVM_8
+000000000077ef40 R_X86_64_JUMP_SLOT  llvm::createLoopVectorizePass(bool, bool)@LLVM_8
+000000000077ef48 R_X86_64_JUMP_SLOT  llvm::createSLPVectorizerPass()@LLVM_8
+000000000077ef50 R_X86_64_JUMP_SLOT  llvm::createLoadStoreVectorizerPass()@LLVM_8
+000000000077ef58 R_X86_64_JUMP_SLOT  llvm::createPartiallyInlineLibCallsPass()@LLVM_8
+000000000077ef60 R_X86_64_JUMP_SLOT  llvm::createScalarizerPass()@LLVM_8
+000000000077ef68 R_X86_64_JUMP_SLOT  llvm::createSeparateConstOffsetFromGEPPass(bool)@LLVM_8
+000000000077ef70 R_X86_64_JUMP_SLOT  llvm::createSpeculativeExecutionPass()@LLVM_8
+000000000077ef78 R_X86_64_JUMP_SLOT  llvm::createSpeculativeExecutionIfHasBranchDivergencePass()@LLVM_8
+000000000077ef80 R_X86_64_JUMP_SLOT  llvm::createRewriteSymbolsPass()@LLVM_8
+000000000077ef88 R_X86_64_JUMP_SLOT  llvm::createStraightLineStrengthReducePass()@LLVM_8
+000000000077ef90 R_X86_64_JUMP_SLOT  llvm::createMemDerefPrinter()@LLVM_8
+000000000077ef98 R_X86_64_JUMP_SLOT  llvm::createMustExecutePrinter()@LLVM_8
+000000000077efa0 R_X86_64_JUMP_SLOT  llvm::createFloat2IntPass()@LLVM_8
+000000000077efa8 R_X86_64_JUMP_SLOT  llvm::createEliminateAvailableExternallyPass()@LLVM_8
+000000000077efb0 R_X86_64_JUMP_SLOT  llvm::createScalarizeMaskedMemIntrinPass()@LLVM_8
+000000000077efb8 R_X86_64_JUMP_SLOT  llvm::createWarnMissedTransformationsPass()@LLVM_8
+000000000077efc0 R_X86_64_JUMP_SLOT  llvm::initializeIntervalPartitionPass(llvm::PassRegistry&)@LLVM_8
+000000000077efc8 R_X86_64_JUMP_SLOT  llvm::ScalarEvolutionWrapperPass::ScalarEvolutionWrapperPass()@LLVM_8
+000000000077efd0 R_X86_64_JUMP_SLOT  llvm::User::operator new(unsigned long)@LLVM_8
+000000000077efd8 R_X86_64_JUMP_SLOT  llvm::Function::Function(llvm::FunctionType*, llvm::GlobalValue::LinkageTypes, unsigned int, llvm::Twine const&, llvm::Module*)@LLVM_8
+000000000077efe0 R_X86_64_JUMP_SLOT  llvm::Function::viewCFGOnly() const@LLVM_8
+000000000077efe8 R_X86_64_JUMP_SLOT  llvm::RGPassManager::RGPassManager()@LLVM_8
+000000000077eff0 R_X86_64_JUMP_SLOT  llvm::TargetLibraryInfoImpl::TargetLibraryInfoImpl()@LLVM_8
+000000000077eff8 R_X86_64_JUMP_SLOT  llvm::AliasSetTracker::add(llvm::Value*, llvm::LocationSize, llvm::AAMDNodes const&)@LLVM_8
+000000000077f000 R_X86_64_JUMP_SLOT  llvm::AreStatisticsEnabled()@LLVM_8
+000000000077f008 R_X86_64_JUMP_SLOT  llvm::sys::RunningOnValgrind()@LLVM_8
+000000000077f010 R_X86_64_JUMP_SLOT  llvm::PMDataManager::~PMDataManager()@LLVM_8
+000000000077f018 R_X86_64_JUMP_SLOT  llvm::raw_string_ostream::~raw_string_ostream()@LLVM_8
+000000000077f020 R_X86_64_JUMP_SLOT  llvm::PassNameParser::PassNameParser(llvm::cl::Option&)@LLVM_8
+000000000077f028 R_X86_64_JUMP_SLOT  llvm::PassRegistrationListener::enumeratePasses()@LLVM_8
+000000000077f030 R_X86_64_JUMP_SLOT  llvm::createBarrierNoopPass()@LLVM_8
+000000000077f038 R_X86_64_JUMP_SLOT  llvm::createCFGPrinterLegacyPassPass()@LLVM_8
+000000000077f040 R_X86_64_JUMP_SLOT  llvm::PassBuilder::buildFunctionSimplificationPipeline(llvm::PassBuilder::OptimizationLevel, llvm::PassBuilder::ThinLTOPhase, bool)@LLVM_8
+000000000077f048 R_X86_64_JUMP_SLOT  llvm::SmallPtrSetImplBase::FindBucketFor(void const*) const@LLVM_8
+000000000077f050 R_X86_64_JUMP_SLOT  llvm::SmallPtrSetImplBase::insert_imp_big(void const*)@LLVM_8
+000000000077f058 R_X86_64_JUMP_SLOT  llvm::outs()@LLVM_8
+000000000077f060 R_X86_64_JUMP_SLOT  std::__detail::_List_node_base::_M_hook(std::__detail::_List_node_base*)@GLIBCXX_3.4.15
+000000000077f068 R_X86_64_JUMP_SLOT  std::__detail::_List_node_base::_M_unhook()@GLIBCXX_3.4.15
+000000000077f070 R_X86_64_JUMP_SLOT  llvm::SmallPtrSetImplBase::MoveFrom(unsigned int, llvm::SmallPtrSetImplBase&&)@LLVM_8
+000000000077f078 R_X86_64_JUMP_SLOT  llvm::VerifierPass::run(llvm::Function&, llvm::AnalysisManager<llvm::Function>&)@LLVM_8
+000000000077f080 R_X86_64_JUMP_SLOT  llvm::AnalysisManager<llvm::Module>::getResultImpl(llvm::AnalysisKey*, llvm::Module&)@LLVM_8
+000000000077f088 R_X86_64_JUMP_SLOT  llvm::PassManager<llvm::Function, llvm::AnalysisManager<llvm::Function>>::run(llvm::Function&, llvm::AnalysisManager<llvm::Function>&)@LLVM_8
+000000000077f090 R_X86_64_JUMP_SLOT  llvm::AnalysisManager<llvm::Function>::invalidate(llvm::Function&, llvm::PreservedAnalyses const&)@LLVM_8
+000000000077f098 R_X86_64_JUMP_SLOT  llvm::CFGPrinterPass::run(llvm::Function&, llvm::AnalysisManager<llvm::Function>&)@LLVM_8
+000000000077f0a0 R_X86_64_JUMP_SLOT  llvm::cl::OptionCategory::registerCategory()@LLVM_8
+000000000077f0a8 R_X86_64_JUMP_SLOT  llvm::PassManagerBuilder::addGlobalExtension(llvm::PassManagerBuilder::ExtensionPointTy, std::function<void (llvm::PassManagerBuilder const&, llvm::legacy::PassManagerBase&)>)@LLVM_8
+000000000077f0b0 R_X86_64_JUMP_SLOT  __tls_get_addr@GLIBC_2.3
+000000000077f0b8 R_X86_64_JUMP_SLOT  pthread_once@GLIBC_2.2.5
+000000000077f0c0 R_X86_64_JUMP_SLOT  std::__throw_system_error(int)@GLIBCXX_3.4.11
+000000000077f0c8 R_X86_64_JUMP_SLOT  llvm::sys::path::stem(llvm::StringRef, llvm::sys::path::Style)@LLVM_8
+000000000077f0d0 R_X86_64_JUMP_SLOT  llvm::Twine::str[abi:cxx11]() const@LLVM_8
+000000000077f0d8 R_X86_64_JUMP_SLOT  llvm::Module::print(llvm::raw_ostream&, llvm::AssemblyAnnotationWriter*, bool, bool) const@LLVM_8
+000000000077f0e0 R_X86_64_JUMP_SLOT  llvm::createFunctionInliningPass(int)@LLVM_8
+000000000077f0e8 R_X86_64_JUMP_SLOT  llvm::legacy::PassManager::PassManager()@LLVM_8
+000000000077f0f0 R_X86_64_JUMP_SLOT  llvm::legacy::PassManager::~PassManager()@LLVM_8
+000000000077f0f8 R_X86_64_JUMP_SLOT  llvm::initializeLoopInfoWrapperPassPass(llvm::PassRegistry&)@LLVM_8
+000000000077f100 R_X86_64_JUMP_SLOT  llvm::FunctionPass::skipFunction(llvm::Function const&) const@LLVM_8
+000000000077f108 R_X86_64_JUMP_SLOT  fwrite@GLIBC_2.2.5
+000000000077f110 R_X86_64_JUMP_SLOT  abort@GLIBC_2.2.5
+000000000077f118 R_X86_64_JUMP_SLOT  std::__throw_bad_alloc()@GLIBCXX_3.4
+000000000077f120 R_X86_64_JUMP_SLOT  llvm::TargetTransformInfo::getRegisterBitWidth(bool) const@LLVM_8
+000000000077f128 R_X86_64_JUMP_SLOT  sqrt@GLIBC_2.2.5
+000000000077f130 R_X86_64_JUMP_SLOT  ceil@GLIBC_2.2.5
+000000000077f138 R_X86_64_JUMP_SLOT  floor@GLIBC_2.2.5
+000000000077f140 R_X86_64_JUMP_SLOT  llvm::TargetTransformInfo::getCacheSize(llvm::TargetTransformInfo::CacheLevel) const@LLVM_8
+000000000077f148 R_X86_64_JUMP_SLOT  llvm::TargetTransformInfo::getCacheAssociativity(llvm::TargetTransformInfo::CacheLevel) const@LLVM_8
+000000000077f150 R_X86_64_JUMP_SLOT  llvm::initializeTargetTransformInfoWrapperPassPass(llvm::PassRegistry&)@LLVM_8
+000000000077f158 R_X86_64_JUMP_SLOT  llvm::cl::parser<int>::parse(llvm::cl::Option&, llvm::StringRef, llvm::StringRef, int&)@LLVM_8
+000000000077f160 R_X86_64_JUMP_SLOT  llvm::TargetTransformInfoWrapperPass::getTTI(llvm::Function const&)@LLVM_8
+000000000077f168 R_X86_64_JUMP_SLOT  llvm::AnalysisUsage::addRequiredTransitiveID(char&)@LLVM_8
+000000000077f170 R_X86_64_JUMP_SLOT  llvm::raw_ostream::indent(unsigned int)@LLVM_8
+000000000077f178 R_X86_64_JUMP_SLOT  llvm::raw_ostream::operator<<(long)@LLVM_8
+000000000077f180 R_X86_64_JUMP_SLOT  llvm::mayBeMemoryDependent(llvm::Instruction const&)@LLVM_8
+000000000077f188 R_X86_64_JUMP_SLOT  llvm::DiagnosticLocation::DiagnosticLocation(llvm::DebugLoc const&)@LLVM_8
+000000000077f190 R_X86_64_JUMP_SLOT  llvm::OptimizationRemarkAnalysis::OptimizationRemarkAnalysis(char const*, llvm::StringRef, llvm::DiagnosticLocation const&, llvm::Value const*)@LLVM_8
+000000000077f198 R_X86_64_JUMP_SLOT  llvm::DiagnosticInfoOptimizationBase::insert(llvm::StringRef)@LLVM_8
+000000000077f1a0 R_X86_64_JUMP_SLOT  llvm::LLVMContext::diagnose(llvm::DiagnosticInfo const&)@LLVM_8
+000000000077f1a8 R_X86_64_JUMP_SLOT  llvm::OptimizationRemarkMissed::OptimizationRemarkMissed(char const*, llvm::StringRef, llvm::Instruction const*)@LLVM_8
+000000000077f1b0 R_X86_64_JUMP_SLOT  llvm::BasicBlock::getModule() const@LLVM_8
+000000000077f1b8 R_X86_64_JUMP_SLOT  llvm::RegionBase<llvm::RegionTraits<llvm::Function> >::contains(llvm::BasicBlock const*) const@LLVM_8
+000000000077f1c0 R_X86_64_JUMP_SLOT  llvm::Constant::isZeroValue() const@LLVM_8
+000000000077f1c8 R_X86_64_JUMP_SLOT  llvm::Constant::getNullValue(llvm::Type*)@LLVM_8
+000000000077f1d0 R_X86_64_JUMP_SLOT  llvm::initializeOptimizationRemarkEmitterWrapperPassPass(llvm::PassRegistry&)@LLVM_8
+000000000077f1d8 R_X86_64_JUMP_SLOT  llvm::OptimizationRemarkAnalysis::OptimizationRemarkAnalysis(char const*, llvm::StringRef, llvm::Instruction const*)@LLVM_8
+000000000077f1e0 R_X86_64_JUMP_SLOT  llvm::OptimizationRemarkEmitter::emit(llvm::DiagnosticInfoOptimizationBase&)@LLVM_8
+000000000077f1e8 R_X86_64_JUMP_SLOT  llvm::RegionBase<llvm::RegionTraits<llvm::Function> >::getEnteringBlock() const@LLVM_8
+000000000077f1f0 R_X86_64_JUMP_SLOT  llvm::AllocaInst::AllocaInst(llvm::Type*, unsigned int, llvm::Twine const&, llvm::Instruction*)@LLVM_8
+000000000077f1f8 R_X86_64_JUMP_SLOT  llvm::LoadInst::LoadInst(llvm::Type*, llvm::Value*, llvm::Twine const&, llvm::Instruction*)@LLVM_8
+000000000077f200 R_X86_64_JUMP_SLOT  llvm::StoreInst::StoreInst(llvm::Value*, llvm::Value*, llvm::Instruction*)@LLVM_8
+000000000077f208 R_X86_64_JUMP_SLOT  llvm::BitCastInst::BitCastInst(llvm::Value*, llvm::Type*, llvm::Twine const&, llvm::Instruction*)@LLVM_8
+000000000077f210 R_X86_64_JUMP_SLOT  llvm::CallGraphSCCPass::getAnalysisUsage(llvm::AnalysisUsage&) const@LLVM_8
+000000000077f218 R_X86_64_JUMP_SLOT  llvm::Function::addAttribute(unsigned int, llvm::Attribute::AttrKind)@LLVM_8
+000000000077f220 R_X86_64_JUMP_SLOT  llvm::AlwaysInlinerPass::run(llvm::Module&, llvm::AnalysisManager<llvm::Module>&)@LLVM_8
+000000000077f228 R_X86_64_JUMP_SLOT  llvm::SmallPtrSetImplBase::SmallPtrSetImplBase(void const**, llvm::SmallPtrSetImplBase const&)@LLVM_8
+000000000077f230 R_X86_64_JUMP_SLOT  llvm::RegionBase<llvm::RegionTraits<llvm::Function> >::contains(llvm::Loop const*) const@LLVM_8
+000000000077f238 R_X86_64_JUMP_SLOT  llvm::SmallPtrSetImplBase::SmallPtrSetImplBase(void const**, unsigned int, llvm::SmallPtrSetImplBase&&)@LLVM_8
+000000000077f240 R_X86_64_JUMP_SLOT  llvm::AttributeList::hasFnAttribute(llvm::StringRef) const@LLVM_8
+000000000077f248 R_X86_64_JUMP_SLOT  llvm::Regex::Regex(llvm::StringRef, unsigned int)@LLVM_8
+000000000077f250 R_X86_64_JUMP_SLOT  llvm::Regex::isValid(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&) const@LLVM_8
+000000000077f258 R_X86_64_JUMP_SLOT  llvm::Regex::match(llvm::StringRef, llvm::SmallVectorImpl<llvm::StringRef>*)@LLVM_8
+000000000077f260 R_X86_64_JUMP_SLOT  llvm::Regex::~Regex()@LLVM_8
+000000000077f268 R_X86_64_JUMP_SLOT  llvm::report_fatal_error(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, bool)@LLVM_8
+000000000077f270 R_X86_64_JUMP_SLOT  llvm::RegionBase<llvm::RegionTraits<llvm::Function> >::blocks()@LLVM_8
+000000000077f278 R_X86_64_JUMP_SLOT  llvm::RegionBase<llvm::RegionTraits<llvm::Function> >::addSubRegion(llvm::Region*, bool)@LLVM_8
+000000000077f280 R_X86_64_JUMP_SLOT  llvm::RegionBase<llvm::RegionTraits<llvm::Function> >::outermostLoopInRegion(llvm::Loop*) const@LLVM_8
+000000000077f288 R_X86_64_JUMP_SLOT  llvm::StringRef::count(llvm::StringRef) const@LLVM_8
+000000000077f290 R_X86_64_JUMP_SLOT  llvm::isSafeToLoadUnconditionally(llvm::Value*, unsigned int, llvm::DataLayout const&, llvm::Instruction*, llvm::DominatorTree const*)@LLVM_8
+000000000077f298 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::getSCEVAtScope(llvm::Value*, llvm::Loop const*)@LLVM_8
+000000000077f2a0 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::getPointerBase(llvm::SCEV const*)@LLVM_8
+000000000077f2a8 R_X86_64_JUMP_SLOT  llvm::AAResults::alias(llvm::MemoryLocation const&, llvm::MemoryLocation const&)@LLVM_8
+000000000077f2b0 R_X86_64_JUMP_SLOT  llvm::LoopBase<llvm::BasicBlock, llvm::Loop>::isLoopLatch(llvm::BasicBlock const*) const@LLVM_8
+000000000077f2b8 R_X86_64_JUMP_SLOT  llvm::RegionInfoBase<llvm::RegionTraits<llvm::Function> >::getRegionFor(llvm::BasicBlock*) const@LLVM_8
+000000000077f2c0 R_X86_64_JUMP_SLOT  llvm::APInt::countLeadingZerosSlowCase() const@LLVM_8
+000000000077f2c8 R_X86_64_JUMP_SLOT  llvm::CmpInst::isUnsigned(llvm::CmpInst::Predicate)@LLVM_8
+000000000077f2d0 R_X86_64_JUMP_SLOT  llvm::AttributeList::hasAttribute(unsigned int, llvm::Attribute::AttrKind) const@LLVM_8
+000000000077f2d8 R_X86_64_JUMP_SLOT  llvm::CallBase::hasFnAttrOnCalledFunction(llvm::Attribute::AttrKind) const@LLVM_8
+000000000077f2e0 R_X86_64_JUMP_SLOT  llvm::AAResults::getModRefBehavior(llvm::Function const*)@LLVM_8
+000000000077f2e8 R_X86_64_JUMP_SLOT  llvm::SCEV::isZero() const@LLVM_8
+000000000077f2f0 R_X86_64_JUMP_SLOT  llvm::AliasSetTracker::addUnknown(llvm::Instruction*)@LLVM_8
+000000000077f2f8 R_X86_64_JUMP_SLOT  llvm::Value::stripPointerCasts() const@LLVM_8
+000000000077f300 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::getMinusSCEV(llvm::SCEV const*, llvm::SCEV const*, llvm::SCEV::NoWrapFlags, unsigned int)@LLVM_8
+000000000077f308 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::getElementSize(llvm::Instruction*)@LLVM_8
+000000000077f310 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::getSMinExpr(llvm::SCEV const*, llvm::SCEV const*)@LLVM_8
+000000000077f318 R_X86_64_JUMP_SLOT  llvm::Type::getInt8PtrTy(llvm::LLVMContext&, unsigned int)@LLVM_8
+000000000077f320 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::getEffectiveSCEVType(llvm::Type*) const@LLVM_8
+000000000077f328 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::getConstant(llvm::Type*, unsigned long, bool)@LLVM_8
+000000000077f330 R_X86_64_JUMP_SLOT  llvm::Instruction::getAAMetadata(llvm::AAMDNodes&, bool) const@LLVM_8
+000000000077f338 R_X86_64_JUMP_SLOT  llvm::AliasSetTracker::getAliasSetFor(llvm::MemoryLocation const&)@LLVM_8
+000000000077f340 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::collectParametricTerms(llvm::SCEV const*, llvm::SmallVectorImpl<llvm::SCEV const*>&)@LLVM_8
+000000000077f348 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::getMulExpr(llvm::SmallVectorImpl<llvm::SCEV const*>&, llvm::SCEV::NoWrapFlags, unsigned int)@LLVM_8
+000000000077f350 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::computeAccessFunctions(llvm::SCEV const*, llvm::SmallVectorImpl<llvm::SCEV const*>&, llvm::SmallVectorImpl<llvm::SCEV const*>&)@LLVM_8
+000000000077f358 R_X86_64_JUMP_SLOT  std::_Rb_tree_decrement(std::_Rb_tree_node_base*)@GLIBCXX_3.4
+000000000077f360 R_X86_64_JUMP_SLOT  std::_Rb_tree_increment(std::_Rb_tree_node_base*)@GLIBCXX_3.4
+000000000077f368 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::findArrayDimensions(llvm::SmallVectorImpl<llvm::SCEV const*>&, llvm::SmallVectorImpl<llvm::SCEV const*>&, llvm::SCEV const*)@LLVM_8
+000000000077f370 R_X86_64_JUMP_SLOT  std::_Rb_tree_insert_and_rebalance(bool, std::_Rb_tree_node_base*, std::_Rb_tree_node_base*, std::_Rb_tree_node_base&)@GLIBCXX_3.4
+000000000077f378 R_X86_64_JUMP_SLOT  llvm::Instruction::mayReadFromMemory() const@LLVM_8
+000000000077f380 R_X86_64_JUMP_SLOT  llvm::Instruction::mayWriteToMemory() const@LLVM_8
+000000000077f388 R_X86_64_JUMP_SLOT  llvm::Instruction::isAtomic() const@LLVM_8
+000000000077f390 R_X86_64_JUMP_SLOT  llvm::LoopBase<llvm::BasicBlock, llvm::Loop>::getExitingBlocks(llvm::SmallVectorImpl<llvm::BasicBlock*>&) const@LLVM_8
+000000000077f398 R_X86_64_JUMP_SLOT  llvm::LoopBase<llvm::BasicBlock, llvm::Loop>::getLoopLatches(llvm::SmallVectorImpl<llvm::BasicBlock*>&) const@LLVM_8
+000000000077f3a0 R_X86_64_JUMP_SLOT  llvm::LoopBase<llvm::BasicBlock, llvm::Loop>::getExitBlocks(llvm::SmallVectorImpl<llvm::BasicBlock*>&) const@LLVM_8
+000000000077f3a8 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::getBackedgeTakenCount(llvm::Loop const*)@LLVM_8
+000000000077f3b0 R_X86_64_JUMP_SLOT  llvm::Type::getScalarSizeInBits() const@LLVM_8
+000000000077f3b8 R_X86_64_JUMP_SLOT  llvm::RegionBase<llvm::RegionTraits<llvm::Function> >::getExpandedRegion() const@LLVM_8
+000000000077f3c0 R_X86_64_JUMP_SLOT  llvm::Region::~Region()@LLVM_8
+000000000077f3c8 R_X86_64_JUMP_SLOT  llvm::DominatorTreeBase<llvm::BasicBlock, false>::dominates(llvm::BasicBlock const*, llvm::BasicBlock const*) const@LLVM_8
+000000000077f3d0 R_X86_64_JUMP_SLOT  llvm::Function::addAttribute(unsigned int, llvm::Attribute)@LLVM_8
+000000000077f3d8 R_X86_64_JUMP_SLOT  llvm::initializeAAResultsWrapperPassPass(llvm::PassRegistry&)@LLVM_8
+000000000077f3e0 R_X86_64_JUMP_SLOT  llvm::initializeRegionInfoPassPass(llvm::PassRegistry&)@LLVM_8
+000000000077f3e8 R_X86_64_JUMP_SLOT  llvm::initializeDominatorTreeWrapperPassPass(llvm::PassRegistry&)@LLVM_8
+000000000077f3f0 R_X86_64_JUMP_SLOT  llvm::initializeScalarEvolutionWrapperPassPass(llvm::PassRegistry&)@LLVM_8
+000000000077f3f8 R_X86_64_JUMP_SLOT  llvm::AliasSetTracker::add(llvm::AliasSetTracker const&)@LLVM_8
+000000000077f400 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::getTruncateExpr(llvm::SCEV const*, llvm::Type*)@LLVM_8
+000000000077f408 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::getZeroExtendExpr(llvm::SCEV const*, llvm::Type*, unsigned int)@LLVM_8
+000000000077f410 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::getSignExtendExpr(llvm::SCEV const*, llvm::Type*, unsigned int)@LLVM_8
+000000000077f418 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::getUDivExpr(llvm::SCEV const*, llvm::SCEV const*)@LLVM_8
+000000000077f420 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::getAddExpr(llvm::SmallVectorImpl<llvm::SCEV const*>&, llvm::SCEV::NoWrapFlags, unsigned int)@LLVM_8
+000000000077f428 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::getAddRecExpr(llvm::SmallVectorImpl<llvm::SCEV const*>&, llvm::Loop const*, llvm::SCEV::NoWrapFlags)@LLVM_8
+000000000077f430 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::getUMaxExpr(llvm::SmallVectorImpl<llvm::SCEV const*>&)@LLVM_8
+000000000077f438 R_X86_64_JUMP_SLOT  llvm::cl::parser<bool>::parse(llvm::cl::Option&, llvm::StringRef, llvm::StringRef, bool&)@LLVM_8
+000000000077f440 R_X86_64_JUMP_SLOT  llvm::cl::parser<bool>::printOptionDiff(llvm::cl::Option const&, bool, llvm::cl::OptionValue<bool>, unsigned long) const@LLVM_8
+000000000077f448 R_X86_64_JUMP_SLOT  llvm::Loop::getStartLoc() const@LLVM_8
+000000000077f450 R_X86_64_JUMP_SLOT  llvm::getNextAvailablePluginDiagnosticKind()@LLVM_8
+000000000077f458 R_X86_64_JUMP_SLOT  llvm::DiagnosticInfo::anchor()@LLVM_8
+000000000077f460 R_X86_64_JUMP_SLOT  llvm::DebugLoc::getCol() const@LLVM_8
+000000000077f468 R_X86_64_JUMP_SLOT  llvm::OptimizationRemarkMissed::OptimizationRemarkMissed(char const*, llvm::StringRef, llvm::DiagnosticLocation const&, llvm::Value const*)@LLVM_8
+000000000077f470 R_X86_64_JUMP_SLOT  llvm::SCEV::print(llvm::raw_ostream&) const@LLVM_8
+000000000077f478 R_X86_64_JUMP_SLOT  llvm::raw_ostream::flush_nonempty()@LLVM_8
+000000000077f480 R_X86_64_JUMP_SLOT  __cxa_pure_virtual@CXXABI_1.3
+000000000077f488 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::getSCEV(llvm::Value*)@LLVM_8
+000000000077f490 R_X86_64_JUMP_SLOT  llvm::IntegerType::get(llvm::LLVMContext&, unsigned int)@LLVM_8
+000000000077f498 R_X86_64_JUMP_SLOT  llvm::Type::print(llvm::raw_ostream&, bool, bool) const@LLVM_8
+000000000077f4a0 R_X86_64_JUMP_SLOT  llvm::APInt::initSlowCase(llvm::APInt const&)@LLVM_8
+000000000077f4a8 R_X86_64_JUMP_SLOT  operator delete[](void*)@GLIBCXX_3.4
+000000000077f4b0 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::isSCEVable(llvm::Type*) const@LLVM_8
+000000000077f4b8 R_X86_64_JUMP_SLOT  llvm::SCEVCouldNotCompute::classof(llvm::SCEV const*)@LLVM_8
+000000000077f4c0 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::getRangeRef(llvm::SCEV const*, llvm::ScalarEvolution::RangeSignHint)@LLVM_8
+000000000077f4c8 R_X86_64_JUMP_SLOT  llvm::ConstantRange::isFullSet() const@LLVM_8
+000000000077f4d0 R_X86_64_JUMP_SLOT  llvm::ConstantRange::isWrappedSet() const@LLVM_8
+000000000077f4d8 R_X86_64_JUMP_SLOT  llvm::ConstantRange::isSignWrappedSet() const@LLVM_8
+000000000077f4e0 R_X86_64_JUMP_SLOT  llvm::APInt::initSlowCase(unsigned long, bool)@LLVM_8
+000000000077f4e8 R_X86_64_JUMP_SLOT  llvm::ConstantRange::getSignedMin() const@LLVM_8
+000000000077f4f0 R_X86_64_JUMP_SLOT  llvm::ConstantRange::getSignedMax() const@LLVM_8
+000000000077f4f8 R_X86_64_JUMP_SLOT  llvm::APInt::operator-=(llvm::APInt const&)@LLVM_8
+000000000077f500 R_X86_64_JUMP_SLOT  llvm::APInt::sdiv(llvm::APInt const&) const@LLVM_8
+000000000077f508 R_X86_64_JUMP_SLOT  llvm::APInt::operator+=(llvm::APInt const&)@LLVM_8
+000000000077f510 R_X86_64_JUMP_SLOT  llvm::ConstantRange::ConstantRange(llvm::APInt, llvm::APInt)@LLVM_8
+000000000077f518 R_X86_64_JUMP_SLOT  __cxa_guard_acquire@CXXABI_1.3
+000000000077f520 R_X86_64_JUMP_SLOT  __cxa_guard_release@CXXABI_1.3
+000000000077f528 R_X86_64_JUMP_SLOT  llvm::SCEV::getType() const@LLVM_8
+000000000077f530 R_X86_64_JUMP_SLOT  llvm::StringMapImpl::StringMapImpl(unsigned int, unsigned int)@LLVM_8
+000000000077f538 R_X86_64_JUMP_SLOT  llvm::Value::stripInBoundsOffsets() const@LLVM_8
+000000000077f540 R_X86_64_JUMP_SLOT  llvm::StringMapImpl::FindKey(llvm::StringRef) const@LLVM_8
+000000000077f548 R_X86_64_JUMP_SLOT  llvm::APInt::print(llvm::raw_ostream&, bool) const@LLVM_8
+000000000077f550 R_X86_64_JUMP_SLOT  llvm::AssumptionCache::scanFunction()@LLVM_8
+000000000077f558 R_X86_64_JUMP_SLOT  llvm::RegionBase<llvm::RegionTraits<llvm::Function> >::getNode(llvm::BasicBlock*) const@LLVM_8
+000000000077f560 R_X86_64_JUMP_SLOT  llvm::AliasSetTracker::add(llvm::Instruction*)@LLVM_8
+000000000077f568 R_X86_64_JUMP_SLOT  llvm::RegionBase<llvm::RegionTraits<llvm::Function> >::getExitingBlock() const@LLVM_8
+000000000077f570 R_X86_64_JUMP_SLOT  llvm::APInt::countLeadingOnesSlowCase() const@LLVM_8
+000000000077f578 R_X86_64_JUMP_SLOT  llvm::Function::BuildLazyArguments() const@LLVM_8
+000000000077f580 R_X86_64_JUMP_SLOT  llvm::isDereferenceableAndAlignedPointer(llvm::Value const*, unsigned int, llvm::DataLayout const&, llvm::Instruction const*, llvm::DominatorTree const*)@LLVM_8
+000000000077f588 R_X86_64_JUMP_SLOT  llvm::Type::getInt64Ty(llvm::LLVMContext&)@LLVM_8
+000000000077f590 R_X86_64_JUMP_SLOT  llvm::Value::printAsOperand(llvm::raw_ostream&, bool, llvm::Module const*) const@LLVM_8
+000000000077f598 R_X86_64_JUMP_SLOT  llvm::AssumptionCacheTracker::getAssumptionCache(llvm::Function&)@LLVM_8
+000000000077f5a0 R_X86_64_JUMP_SLOT  llvm::initializeAssumptionCacheTrackerPass(llvm::PassRegistry&)@LLVM_8
+000000000077f5a8 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::getAddRecExpr(llvm::SCEV const*, llvm::SCEV const*, llvm::Loop const*, llvm::SCEV::NoWrapFlags)@LLVM_8
+000000000077f5b0 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::getUnknown(llvm::Value*)@LLVM_8
+000000000077f5b8 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::getSMaxExpr(llvm::SmallVectorImpl<llvm::SCEV const*>&)@LLVM_8
+000000000077f5c0 R_X86_64_JUMP_SLOT  llvm::StructType::getName() const@LLVM_8
+000000000077f5c8 R_X86_64_JUMP_SLOT  llvm::GEPOperator::getSourceElementType() const@LLVM_8
+000000000077f5d0 R_X86_64_JUMP_SLOT  llvm::AttributeList::getParamAlignment(unsigned int) const@LLVM_8
+000000000077f5d8 R_X86_64_JUMP_SLOT  llvm::Type::getInt8Ty(llvm::LLVMContext&)@LLVM_8
+000000000077f5e0 R_X86_64_JUMP_SLOT  llvm::Instruction::getMetadataImpl(llvm::StringRef) const@LLVM_8
+000000000077f5e8 R_X86_64_JUMP_SLOT  std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_replace_aux(unsigned long, unsigned long, unsigned long, char)@GLIBCXX_3.4.21
+000000000077f5f0 R_X86_64_JUMP_SLOT  std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_mutate(unsigned long, unsigned long, char const*, unsigned long)@GLIBCXX_3.4.21
+000000000077f5f8 R_X86_64_JUMP_SLOT  llvm::Instruction::mayThrow() const@LLVM_8
+000000000077f600 R_X86_64_JUMP_SLOT  llvm::RegionBase<llvm::RegionTraits<llvm::Function> >::element_begin()@LLVM_8
+000000000077f608 R_X86_64_JUMP_SLOT  llvm::RegionBase<llvm::RegionTraits<llvm::Function> >::element_end()@LLVM_8
+000000000077f610 R_X86_64_JUMP_SLOT  llvm::Instruction::isFast() const@LLVM_8
+000000000077f618 R_X86_64_JUMP_SLOT  llvm::Value::getNumUses() const@LLVM_8
+000000000077f620 R_X86_64_JUMP_SLOT  llvm::Instruction::isAssociative() const@LLVM_8
+000000000077f628 R_X86_64_JUMP_SLOT  llvm::DisplayGraph(llvm::StringRef, bool, llvm::GraphProgram::Name)@LLVM_8
+000000000077f630 R_X86_64_JUMP_SLOT  llvm::sys::fs::openFile(llvm::Twine const&, int&, llvm::sys::fs::CreationDisposition, llvm::sys::fs::FileAccess, llvm::sys::fs::OpenFlags, unsigned int)@LLVM_8
+000000000077f638 R_X86_64_JUMP_SLOT  std::_V2::generic_category()@GLIBCXX_3.4.21
+000000000077f640 R_X86_64_JUMP_SLOT  llvm::createGraphFilename[abi:cxx11](llvm::Twine const&, int&)@LLVM_8
+000000000077f648 R_X86_64_JUMP_SLOT  llvm::raw_fd_ostream::raw_fd_ostream(int, bool, bool)@LLVM_8
+000000000077f650 R_X86_64_JUMP_SLOT  llvm::DOT::EscapeString(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)@LLVM_8
+000000000077f658 R_X86_64_JUMP_SLOT  llvm::RegionBase<llvm::RegionTraits<llvm::Function> >::getBBNode(llvm::BasicBlock*) const@LLVM_8
+000000000077f660 R_X86_64_JUMP_SLOT  llvm::raw_ostream::operator<<(void const*)@LLVM_8
+000000000077f668 R_X86_64_JUMP_SLOT  std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_erase(unsigned long, unsigned long)@GLIBCXX_3.4.21
+000000000077f670 R_X86_64_JUMP_SLOT  std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::find(char, unsigned long) const@GLIBCXX_3.4.21
+000000000077f678 R_X86_64_JUMP_SLOT  std::__throw_out_of_range_fmt(char const*, ...)@GLIBCXX_3.4.20
+000000000077f680 R_X86_64_JUMP_SLOT  llvm::RegionBase<llvm::RegionTraits<llvm::Function> >::getDepth() const@LLVM_8
+000000000077f688 R_X86_64_JUMP_SLOT  llvm::RegionBase<llvm::RegionTraits<llvm::Function> >::blocks() const@LLVM_8
+000000000077f690 R_X86_64_JUMP_SLOT  llvm::raw_fd_ostream::raw_fd_ostream(llvm::StringRef, std::error_code&, llvm::sys::fs::OpenFlags)@LLVM_8
+000000000077f698 R_X86_64_JUMP_SLOT  llvm::RegionPass::skipRegion(llvm::Region&) const@LLVM_8
+000000000077f6a0 R_X86_64_JUMP_SLOT  strcmp@GLIBC_2.2.5
+000000000077f6a8 R_X86_64_JUMP_SLOT  std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, unsigned long, unsigned long)@GLIBCXX_3.4.21
+000000000077f6b0 R_X86_64_JUMP_SLOT  llvm::Instruction::eraseFromParent()@LLVM_8
+000000000077f6b8 R_X86_64_JUMP_SLOT  llvm::SymbolTableListTraits<llvm::Instruction>::addNodeToList(llvm::Instruction*)@LLVM_8
+000000000077f6c0 R_X86_64_JUMP_SLOT  llvm::Value::setName(llvm::Twine const&)@LLVM_8
+000000000077f6c8 R_X86_64_JUMP_SLOT  llvm::BasicBlock::getContext() const@LLVM_8
+000000000077f6d0 R_X86_64_JUMP_SLOT  llvm::ConstantInt::getTrue(llvm::LLVMContext&)@LLVM_8
+000000000077f6d8 R_X86_64_JUMP_SLOT  llvm::SymbolTableListTraits<llvm::Instruction>::removeNodeFromList(llvm::Instruction*)@LLVM_8
+000000000077f6e0 R_X86_64_JUMP_SLOT  llvm::Value::deleteValue()@LLVM_8
+000000000077f6e8 R_X86_64_JUMP_SLOT  llvm::BasicBlock::getSinglePredecessor() const@LLVM_8
+000000000077f6f0 R_X86_64_JUMP_SLOT  llvm::BasicBlock::getUniqueSuccessor() const@LLVM_8
+000000000077f6f8 R_X86_64_JUMP_SLOT  llvm::ConstantInt::getFalse(llvm::LLVMContext&)@LLVM_8
+000000000077f700 R_X86_64_JUMP_SLOT  llvm::RegionInfoBase<llvm::RegionTraits<llvm::Function> >::setRegionFor(llvm::BasicBlock*, llvm::Region*)@LLVM_8
+000000000077f708 R_X86_64_JUMP_SLOT  llvm::DominatorTreeBase<llvm::BasicBlock, false>::changeImmediateDominator(llvm::BasicBlock*, llvm::BasicBlock*)@LLVM_8
+000000000077f710 R_X86_64_JUMP_SLOT  llvm::DominatorTreeBase<llvm::BasicBlock, false>::eraseNode(llvm::BasicBlock*)@LLVM_8
+000000000077f718 R_X86_64_JUMP_SLOT  llvm::verifyFunction(llvm::Function const&, llvm::raw_ostream*)@LLVM_8
+000000000077f720 R_X86_64_JUMP_SLOT  llvm::MDString::get(llvm::LLVMContext&, llvm::StringRef)@LLVM_8
+000000000077f728 R_X86_64_JUMP_SLOT  llvm::MDNode::concatenate(llvm::MDNode*, llvm::MDNode*)@LLVM_8
+000000000077f730 R_X86_64_JUMP_SLOT  llvm::MDNode::replaceOperandWith(unsigned int, llvm::Metadata*)@LLVM_8
+000000000077f738 R_X86_64_JUMP_SLOT  llvm::MDNode::deleteTemporary(llvm::MDNode*)@LLVM_8
+000000000077f740 R_X86_64_JUMP_SLOT  llvm::Type::getInt1Ty(llvm::LLVMContext&)@LLVM_8
+000000000077f748 R_X86_64_JUMP_SLOT  llvm::Instruction::setMetadata(llvm::StringRef, llvm::MDNode*)@LLVM_8
+000000000077f750 R_X86_64_JUMP_SLOT  llvm::RegionBase<llvm::RegionTraits<llvm::Function> >::replaceExit(llvm::BasicBlock*)@LLVM_8
+000000000077f758 R_X86_64_JUMP_SLOT  llvm::RegionBase<llvm::RegionTraits<llvm::Function> >::replaceExitRecursive(llvm::BasicBlock*)@LLVM_8
+000000000077f760 R_X86_64_JUMP_SLOT  llvm::BasicBlock::BasicBlock(llvm::LLVMContext&, llvm::Twine const&, llvm::Function*, llvm::BasicBlock*)@LLVM_8
+000000000077f768 R_X86_64_JUMP_SLOT  llvm::BranchInst::BranchInst(llvm::BasicBlock*, llvm::BasicBlock*, llvm::Value*, llvm::Instruction*)@LLVM_8
+000000000077f770 R_X86_64_JUMP_SLOT  llvm::LoopBase<llvm::BasicBlock, llvm::Loop>::addBasicBlockToLoop(llvm::BasicBlock*, llvm::LoopInfoBase<llvm::BasicBlock, llvm::Loop>&)@LLVM_8
+000000000077f778 R_X86_64_JUMP_SLOT  llvm::DominatorTreeBase<llvm::BasicBlock, false>::addNewBlock(llvm::BasicBlock*, llvm::BasicBlock*)@LLVM_8
+000000000077f780 R_X86_64_JUMP_SLOT  llvm::BranchInst::BranchInst(llvm::BasicBlock*, llvm::Instruction*)@LLVM_8
+000000000077f788 R_X86_64_JUMP_SLOT  llvm::SplitBlockPredecessors(llvm::BasicBlock*, llvm::ArrayRef<llvm::BasicBlock*>, char const*, llvm::DominatorTree*, llvm::LoopInfo*, llvm::MemorySSAUpdater*, bool)@LLVM_8
+000000000077f790 R_X86_64_JUMP_SLOT  llvm::createAAResultsWrapperPass()@LLVM_8
+000000000077f798 R_X86_64_JUMP_SLOT  llvm::createSimpleLoopUnrollPass(int, bool)@LLVM_8
+000000000077f7a0 R_X86_64_JUMP_SLOT  llvm::Module::getFunction(llvm::StringRef) const@LLVM_8
+000000000077f7a8 R_X86_64_JUMP_SLOT  llvm::FunctionType::get(llvm::Type*, llvm::ArrayRef<llvm::Type*>, bool)@LLVM_8
+000000000077f7b0 R_X86_64_JUMP_SLOT  llvm::Module::getGlobalVariable(llvm::StringRef, bool) const@LLVM_8
+000000000077f7b8 R_X86_64_JUMP_SLOT  llvm::GlobalVariable::eraseFromParent()@LLVM_8
+000000000077f7c0 R_X86_64_JUMP_SLOT  llvm::StructType::get(llvm::LLVMContext&, llvm::ArrayRef<llvm::Type*>, bool)@LLVM_8
+000000000077f7c8 R_X86_64_JUMP_SLOT  llvm::ConstantPointerNull::get(llvm::PointerType*)@LLVM_8
+000000000077f7d0 R_X86_64_JUMP_SLOT  llvm::ConstantStruct::get(llvm::StructType*, llvm::ArrayRef<llvm::Constant*>)@LLVM_8
+000000000077f7d8 R_X86_64_JUMP_SLOT  llvm::ArrayType::get(llvm::Type*, unsigned long)@LLVM_8
+000000000077f7e0 R_X86_64_JUMP_SLOT  llvm::ConstantArray::get(llvm::ArrayType*, llvm::ArrayRef<llvm::Constant*>)@LLVM_8
+000000000077f7e8 R_X86_64_JUMP_SLOT  llvm::GlobalVariable::GlobalVariable(llvm::Module&, llvm::Type*, bool, llvm::GlobalValue::LinkageTypes, llvm::Constant*, llvm::Twine const&, llvm::GlobalVariable*, llvm::GlobalValue::ThreadLocalMode, unsigned int, bool)@LLVM_8
+000000000077f7f0 R_X86_64_JUMP_SLOT  llvm::Intrinsic::getDeclaration(llvm::Module*, llvm::Intrinsic::ID, llvm::ArrayRef<llvm::Type*>)@LLVM_8
+000000000077f7f8 R_X86_64_JUMP_SLOT  std::ios_base::ios_base()@GLIBCXX_3.4
+000000000077f800 R_X86_64_JUMP_SLOT  std::basic_ios<char, std::char_traits<char> >::init(std::basic_streambuf<char, std::char_traits<char> >*)@GLIBCXX_3.4
+000000000077f808 R_X86_64_JUMP_SLOT  std::locale::locale()@GLIBCXX_3.4
+000000000077f810 R_X86_64_JUMP_SLOT  std::basic_ostream<char, std::char_traits<char> >& std::__ostream_insert<char, std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&, char const*, long)@GLIBCXX_3.4.9
+000000000077f818 R_X86_64_JUMP_SLOT  std::__cxx11::basic_stringbuf<char, std::char_traits<char>, std::allocator<char> >::str() const@GLIBCXX_3.4.21
+000000000077f820 R_X86_64_JUMP_SLOT  std::locale::~locale()@GLIBCXX_3.4
+000000000077f828 R_X86_64_JUMP_SLOT  std::ios_base::~ios_base()@GLIBCXX_3.4
+000000000077f830 R_X86_64_JUMP_SLOT  llvm::Type::getVoidTy(llvm::LLVMContext&)@LLVM_8
+000000000077f838 R_X86_64_JUMP_SLOT  llvm::LoadInst::LoadInst(llvm::Type*, llvm::Value*, llvm::Twine const&, bool, llvm::Instruction*)@LLVM_8
+000000000077f840 R_X86_64_JUMP_SLOT  llvm::ConstantExpr::getSub(llvm::Constant*, llvm::Constant*, bool, bool)@LLVM_8
+000000000077f848 R_X86_64_JUMP_SLOT  llvm::ReturnInst::ReturnInst(llvm::LLVMContext&, llvm::Value*, llvm::Instruction*)@LLVM_8
+000000000077f850 R_X86_64_JUMP_SLOT  llvm::ConstantExpr::getExtractValue(llvm::Constant*, llvm::ArrayRef<unsigned int>, llvm::Type*)@LLVM_8
+000000000077f858 R_X86_64_JUMP_SLOT  llvm::LoadInst::LoadInst(llvm::Type*, llvm::Value*, llvm::Twine const&, llvm::Instruction*)@LLVM_8
+000000000077f860 R_X86_64_JUMP_SLOT  llvm::Instruction::setMetadata(unsigned int, llvm::MDNode*)@LLVM_8
+000000000077f868 R_X86_64_JUMP_SLOT  llvm::StoreInst::StoreInst(llvm::Value*, llvm::Value*, bool, llvm::Instruction*)@LLVM_8
+000000000077f870 R_X86_64_JUMP_SLOT  llvm::CastInst::CreatePointerCast(llvm::Value*, llvm::Type*, llvm::Twine const&, llvm::Instruction*)@LLVM_8
+000000000077f878 R_X86_64_JUMP_SLOT  llvm::ConstantExpr::getPointerCast(llvm::Constant*, llvm::Type*)@LLVM_8
+000000000077f880 R_X86_64_JUMP_SLOT  llvm::ConstantExpr::getAdd(llvm::Constant*, llvm::Constant*, bool, bool)@LLVM_8
+000000000077f888 R_X86_64_JUMP_SLOT  llvm::IRBuilderBase::CreateGlobalString(llvm::StringRef, llvm::Twine const&, unsigned int)@LLVM_8
+000000000077f890 R_X86_64_JUMP_SLOT  llvm::ConstantExpr::getGetElementPtr(llvm::Type*, llvm::Constant*, llvm::ArrayRef<llvm::Value*>, bool, llvm::Optional<unsigned int>, llvm::Type*)@LLVM_8
+000000000077f898 R_X86_64_JUMP_SLOT  llvm::ExtractValueInst::getIndexedType(llvm::Type*, llvm::ArrayRef<unsigned int>)@LLVM_8
+000000000077f8a0 R_X86_64_JUMP_SLOT  llvm::Instruction::Instruction(llvm::Type*, unsigned int, llvm::Use*, unsigned int, llvm::Instruction*)@LLVM_8
+000000000077f8a8 R_X86_64_JUMP_SLOT  llvm::ExtractValueInst::init(llvm::ArrayRef<unsigned int>, llvm::Twine const&)@LLVM_8
+000000000077f8b0 R_X86_64_JUMP_SLOT  llvm::Instruction::setFastMathFlags(llvm::FastMathFlags)@LLVM_8
+000000000077f8b8 R_X86_64_JUMP_SLOT  llvm::User::operator new(unsigned long, unsigned int, unsigned int)@LLVM_8
+000000000077f8c0 R_X86_64_JUMP_SLOT  llvm::CallInst::init(llvm::FunctionType*, llvm::Value*, llvm::ArrayRef<llvm::Value*>, llvm::ArrayRef<llvm::OperandBundleDefT<llvm::Value*> >, llvm::Twine const&)@LLVM_8
+000000000077f8c8 R_X86_64_JUMP_SLOT  llvm::BinaryOperator::Create(llvm::Instruction::BinaryOps, llvm::Value*, llvm::Value*, llvm::Twine const&, llvm::Instruction*)@LLVM_8
+000000000077f8d0 R_X86_64_JUMP_SLOT  llvm::Instruction::setHasNoUnsignedWrap(bool)@LLVM_8
+000000000077f8d8 R_X86_64_JUMP_SLOT  llvm::Instruction::setHasNoSignedWrap(bool)@LLVM_8
+000000000077f8e0 R_X86_64_JUMP_SLOT  llvm::json::Object::operator[](llvm::json::ObjectKey&&)@LLVM_8
+000000000077f8e8 R_X86_64_JUMP_SLOT  llvm::json::Value::destroy()@LLVM_8
+000000000077f8f0 R_X86_64_JUMP_SLOT  llvm::json::Value::moveFrom(llvm::json::Value const&&)@LLVM_8
+000000000077f8f8 R_X86_64_JUMP_SLOT  llvm::raw_ostream::operator<<(llvm::formatv_object_base const&)@LLVM_8
+000000000077f900 R_X86_64_JUMP_SLOT  llvm::raw_fd_ostream::close()@LLVM_8
+000000000077f908 R_X86_64_JUMP_SLOT  llvm::MemoryBuffer::getFile(llvm::Twine const&, long, bool, bool)@LLVM_8
+000000000077f910 R_X86_64_JUMP_SLOT  llvm::json::parse(llvm::StringRef)@LLVM_8
+000000000077f918 R_X86_64_JUMP_SLOT  llvm::json::Object::get(llvm::StringRef) const@LLVM_8
+000000000077f920 R_X86_64_JUMP_SLOT  llvm::json::Object::getString(llvm::StringRef) const@LLVM_8
+000000000077f928 R_X86_64_JUMP_SLOT  llvm::json::Object::getArray(llvm::StringRef) const@LLVM_8
+000000000077f930 R_X86_64_JUMP_SLOT  llvm::Type::getHalfTy(llvm::LLVMContext&)@LLVM_8
+000000000077f938 R_X86_64_JUMP_SLOT  llvm::Type::getFloatTy(llvm::LLVMContext&)@LLVM_8
+000000000077f940 R_X86_64_JUMP_SLOT  llvm::Type::getDoubleTy(llvm::LLVMContext&)@LLVM_8
+000000000077f948 R_X86_64_JUMP_SLOT  llvm::Type::getX86_FP80Ty(llvm::LLVMContext&)@LLVM_8
+000000000077f950 R_X86_64_JUMP_SLOT  llvm::Type::getFP128Ty(llvm::LLVMContext&)@LLVM_8
+000000000077f958 R_X86_64_JUMP_SLOT  llvm::Type::getPPC_FP128Ty(llvm::LLVMContext&)@LLVM_8
+000000000077f960 R_X86_64_JUMP_SLOT  llvm::Type::getInt16Ty(llvm::LLVMContext&)@LLVM_8
+000000000077f968 R_X86_64_JUMP_SLOT  llvm::Type::getInt128Ty(llvm::LLVMContext&)@LLVM_8
+000000000077f970 R_X86_64_JUMP_SLOT  __errno_location@GLIBC_2.2.5
+000000000077f978 R_X86_64_JUMP_SLOT  strtol@GLIBC_2.2.5
+000000000077f980 R_X86_64_JUMP_SLOT  std::__throw_out_of_range(char const*)@GLIBCXX_3.4
+000000000077f988 R_X86_64_JUMP_SLOT  std::__throw_invalid_argument(char const*)@GLIBCXX_3.4
+000000000077f990 R_X86_64_JUMP_SLOT  llvm::json::isUTF8(llvm::StringRef, unsigned long*)@LLVM_8
+000000000077f998 R_X86_64_JUMP_SLOT  llvm::json::fixUTF8[abi:cxx11](llvm::StringRef)@LLVM_8
+000000000077f9a0 R_X86_64_JUMP_SLOT  llvm::json::Value::copyFrom(llvm::json::Value const&)@LLVM_8
+000000000077f9a8 R_X86_64_JUMP_SLOT  llvm::formatv_object_base::parseFormatString(llvm::StringRef)@LLVM_8
+000000000077f9b0 R_X86_64_JUMP_SLOT  llvm::format_provider<llvm::json::Value, void>::format(llvm::json::Value const&, llvm::raw_ostream&, llvm::StringRef)@LLVM_8
+000000000077f9b8 R_X86_64_JUMP_SLOT  llvm::detail::format_adapter::anchor()@LLVM_8
+000000000077f9c0 R_X86_64_JUMP_SLOT  llvm::APInt::sext(unsigned int) const@LLVM_8
+000000000077f9c8 R_X86_64_JUMP_SLOT  llvm::APInt::AssignSlowCase(llvm::APInt const&)@LLVM_8
+000000000077f9d0 R_X86_64_JUMP_SLOT  llvm::APInt::flipAllBitsSlowCase()@LLVM_8
+000000000077f9d8 R_X86_64_JUMP_SLOT  llvm::APInt::operator++()@LLVM_8
+000000000077f9e0 R_X86_64_JUMP_SLOT  llvm::APInt::APInt(unsigned int, unsigned int, unsigned long const*)@LLVM_8
+000000000077f9e8 R_X86_64_JUMP_SLOT  llvm::APInt::zext(unsigned int) const@LLVM_8
+000000000077f9f0 R_X86_64_JUMP_SLOT  llvm::APInt::trunc(unsigned int) const@LLVM_8
+000000000077f9f8 R_X86_64_JUMP_SLOT  std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::find(char const*, unsigned long, unsigned long) const@GLIBCXX_3.4.21
+000000000077fa00 R_X86_64_JUMP_SLOT  llvm::Type::isIntegerTy(unsigned int) const@LLVM_8
+000000000077fa08 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::isKnownNegative(llvm::SCEV const*)@LLVM_8
+000000000077fa10 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::getNegativeSCEV(llvm::SCEV const*, llvm::SCEV::NoWrapFlags)@LLVM_8
+000000000077fa18 R_X86_64_JUMP_SLOT  llvm::RegionBase<llvm::RegionTraits<llvm::Function> >::replaceEntry(llvm::BasicBlock*)@LLVM_8
+000000000077fa20 R_X86_64_JUMP_SLOT  llvm::SplitBlock(llvm::BasicBlock*, llvm::Instruction*, llvm::DominatorTree*, llvm::LoopInfo*, llvm::MemorySSAUpdater*)@LLVM_8
+000000000077fa28 R_X86_64_JUMP_SLOT  llvm::AnalysisResolver::getAnalysisIfAvailable(void const*, bool) const@LLVM_8
+000000000077fa30 R_X86_64_JUMP_SLOT  llvm::SCEVExpander::expandCodeFor(llvm::SCEV const*, llvm::Type*, llvm::Instruction*)@LLVM_8
+000000000077fa38 R_X86_64_JUMP_SLOT  llvm::ConstantInt::getTrue(llvm::Type*)@LLVM_8
+000000000077fa40 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::isLoopInvariant(llvm::SCEV const*, llvm::Loop const*)@LLVM_8
+000000000077fa48 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::isKnownNonZero(llvm::SCEV const*)@LLVM_8
+000000000077fa50 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::getUMaxExpr(llvm::SCEV const*, llvm::SCEV const*)@LLVM_8
+000000000077fa58 R_X86_64_JUMP_SLOT  llvm::Instruction::getFunction() const@LLVM_8
+000000000077fa60 R_X86_64_JUMP_SLOT  llvm::Instruction::clone() const@LLVM_8
+000000000077fa68 R_X86_64_JUMP_SLOT  llvm::User::replaceUsesOfWith(llvm::Value*, llvm::Value*)@LLVM_8
+000000000077fa70 R_X86_64_JUMP_SLOT  llvm::Instruction::insertBefore(llvm::Instruction*)@LLVM_8
+000000000077fa78 R_X86_64_JUMP_SLOT  llvm::DebugLoc::getScope() const@LLVM_8
+000000000077fa80 R_X86_64_JUMP_SLOT  llvm::CastInst::CreateTruncOrBitCast(llvm::Value*, llvm::Type*, llvm::Twine const&, llvm::Instruction*)@LLVM_8
+000000000077fa88 R_X86_64_JUMP_SLOT  llvm::ConstantExpr::getTruncOrBitCast(llvm::Constant*, llvm::Type*)@LLVM_8
+000000000077fa90 R_X86_64_JUMP_SLOT  llvm::Instruction::getModule() const@LLVM_8
+000000000077fa98 R_X86_64_JUMP_SLOT  llvm::Type::getPointerTo(unsigned int) const@LLVM_8
+000000000077faa0 R_X86_64_JUMP_SLOT  llvm::PointerType::get(llvm::Type*, unsigned int)@LLVM_8
+000000000077faa8 R_X86_64_JUMP_SLOT  llvm::CastInst::Create(llvm::Instruction::CastOps, llvm::Value*, llvm::Type*, llvm::Twine const&, llvm::Instruction*)@LLVM_8
+000000000077fab0 R_X86_64_JUMP_SLOT  llvm::ConstantExpr::getCast(unsigned int, llvm::Constant*, llvm::Type*, bool)@LLVM_8
+000000000077fab8 R_X86_64_JUMP_SLOT  llvm::LoadInst::setAlignment(unsigned int)@LLVM_8
+000000000077fac0 R_X86_64_JUMP_SLOT  llvm::SplitBlockAndInsertIfThen(llvm::Value*, llvm::Instruction*, bool, llvm::MDNode*, llvm::DominatorTree*, llvm::LoopInfo*)@LLVM_8
+000000000077fac8 R_X86_64_JUMP_SLOT  llvm::isInstructionTriviallyDead(llvm::Instruction*, llvm::TargetLibraryInfo const*)@LLVM_8
+000000000077fad0 R_X86_64_JUMP_SLOT  llvm::ConstantInt::get(llvm::Type*, unsigned long, bool)@LLVM_8
+000000000077fad8 R_X86_64_JUMP_SLOT  llvm::User::allocHungoffUses(unsigned int, bool)@LLVM_8
+000000000077fae0 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::forgetValue(llvm::Value*)@LLVM_8
+000000000077fae8 R_X86_64_JUMP_SLOT  llvm::PHINode::growOperands()@LLVM_8
+000000000077faf0 R_X86_64_JUMP_SLOT  llvm::BasicBlock::getSingleSuccessor() const@LLVM_8
+000000000077faf8 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::forgetLoop(llvm::Loop const*)@LLVM_8
+000000000077fb00 R_X86_64_JUMP_SLOT  llvm::VectorType::get(llvm::Type*, unsigned int)@LLVM_8
+000000000077fb08 R_X86_64_JUMP_SLOT  llvm::UndefValue::get(llvm::Type*)@LLVM_8
+000000000077fb10 R_X86_64_JUMP_SLOT  llvm::ConstantExpr::getInsertElement(llvm::Constant*, llvm::Constant*, llvm::Constant*, llvm::Type*)@LLVM_8
+000000000077fb18 R_X86_64_JUMP_SLOT  llvm::InsertElementInst::InsertElementInst(llvm::Value*, llvm::Value*, llvm::Value*, llvm::Twine const&, llvm::Instruction*)@LLVM_8
+000000000077fb20 R_X86_64_JUMP_SLOT  llvm::ConstantVector::get(llvm::ArrayRef<llvm::Constant*>)@LLVM_8
+000000000077fb28 R_X86_64_JUMP_SLOT  llvm::ConstantExpr::getShuffleVector(llvm::Constant*, llvm::Constant*, llvm::Constant*, llvm::Type*)@LLVM_8
+000000000077fb30 R_X86_64_JUMP_SLOT  llvm::ShuffleVectorInst::ShuffleVectorInst(llvm::Value*, llvm::Value*, llvm::Value*, llvm::Twine const&, llvm::Instruction*)@LLVM_8
+000000000077fb38 R_X86_64_JUMP_SLOT  llvm::VectorType::isValidElementType(llvm::Type*)@LLVM_8
+000000000077fb40 R_X86_64_JUMP_SLOT  llvm::ConstantAggregateZero::get(llvm::Type*)@LLVM_8
+000000000077fb48 R_X86_64_JUMP_SLOT  llvm::ConstantExpr::get(unsigned int, llvm::Constant*, llvm::Constant*, unsigned int, llvm::Type*)@LLVM_8
+000000000077fb50 R_X86_64_JUMP_SLOT  llvm::StoreInst::setAlignment(unsigned int)@LLVM_8
+000000000077fb58 R_X86_64_JUMP_SLOT  llvm::ConstantExpr::getExtractElement(llvm::Constant*, llvm::Constant*, llvm::Type*)@LLVM_8
+000000000077fb60 R_X86_64_JUMP_SLOT  llvm::ExtractElementInst::ExtractElementInst(llvm::Value*, llvm::Value*, llvm::Twine const&, llvm::Instruction*)@LLVM_8
+000000000077fb68 R_X86_64_JUMP_SLOT  llvm::DominatorTreeBase<llvm::BasicBlock, false>::findNearestCommonDominator(llvm::BasicBlock*, llvm::BasicBlock*) const@LLVM_8
+000000000077fb70 R_X86_64_JUMP_SLOT  llvm::UnreachableInst::UnreachableInst(llvm::LLVMContext&, llvm::BasicBlock*)@LLVM_8
+000000000077fb78 R_X86_64_JUMP_SLOT  llvm::Instruction::moveBefore(llvm::Instruction*)@LLVM_8
+000000000077fb80 R_X86_64_JUMP_SLOT  llvm::SCEVAddRecExpr::evaluateAtIteration(llvm::SCEV const*, llvm::ScalarEvolution&) const@LLVM_8
+000000000077fb88 R_X86_64_JUMP_SLOT  llvm::ConstantExpr::getCompare(unsigned short, llvm::Constant*, llvm::Constant*, bool)@LLVM_8
+000000000077fb90 R_X86_64_JUMP_SLOT  llvm::CmpInst::CmpInst(llvm::Type*, llvm::Instruction::OtherOps, llvm::CmpInst::Predicate, llvm::Value*, llvm::Value*, llvm::Twine const&, llvm::Instruction*, llvm::Instruction*)@LLVM_8
+000000000077fb98 R_X86_64_JUMP_SLOT  llvm::ConstantExpr::getMul(llvm::Constant*, llvm::Constant*, bool, bool)@LLVM_8
+000000000077fba0 R_X86_64_JUMP_SLOT  llvm::Constant::isNullValue() const@LLVM_8
+000000000077fba8 R_X86_64_JUMP_SLOT  llvm::ConstantExpr::getOr(llvm::Constant*, llvm::Constant*)@LLVM_8
+000000000077fbb0 R_X86_64_JUMP_SLOT  llvm::Type::getPrimitiveSizeInBits() const@LLVM_8
+000000000077fbb8 R_X86_64_JUMP_SLOT  llvm::ConstantExpr::getSelect(llvm::Constant*, llvm::Constant*, llvm::Constant*, llvm::Type*)@LLVM_8
+000000000077fbc0 R_X86_64_JUMP_SLOT  llvm::Instruction::getMetadataImpl(unsigned int) const@LLVM_8
+000000000077fbc8 R_X86_64_JUMP_SLOT  llvm::CastInst::CreateIntegerCast(llvm::Value*, llvm::Type*, bool, llvm::Twine const&, llvm::Instruction*)@LLVM_8
+000000000077fbd0 R_X86_64_JUMP_SLOT  llvm::ConstantExpr::getIntegerCast(llvm::Constant*, llvm::Type*, bool)@LLVM_8
+000000000077fbd8 R_X86_64_JUMP_SLOT  llvm::ConstantExpr::getSDiv(llvm::Constant*, llvm::Constant*, bool)@LLVM_8
+000000000077fbe0 R_X86_64_JUMP_SLOT  llvm::ConstantExpr::getUDiv(llvm::Constant*, llvm::Constant*, bool)@LLVM_8
+000000000077fbe8 R_X86_64_JUMP_SLOT  llvm::Instruction::setIsExact(bool)@LLVM_8
+000000000077fbf0 R_X86_64_JUMP_SLOT  llvm::APInt::countPopulationSlowCase() const@LLVM_8
+000000000077fbf8 R_X86_64_JUMP_SLOT  llvm::APInt::operator--()@LLVM_8
+000000000077fc00 R_X86_64_JUMP_SLOT  llvm::ConstantExpr::getAShr(llvm::Constant*, llvm::Constant*, bool)@LLVM_8
+000000000077fc08 R_X86_64_JUMP_SLOT  llvm::Type::getIntNTy(llvm::LLVMContext&, unsigned int)@LLVM_8
+000000000077fc10 R_X86_64_JUMP_SLOT  llvm::ConstantExpr::getAnd(llvm::Constant*, llvm::Constant*)@LLVM_8
+000000000077fc18 R_X86_64_JUMP_SLOT  llvm::APInt::countTrailingOnesSlowCase() const@LLVM_8
+000000000077fc20 R_X86_64_JUMP_SLOT  llvm::LoopInfoBase<llvm::BasicBlock, llvm::Loop>::changeLoopFor(llvm::BasicBlock*, llvm::Loop*)@LLVM_8
+000000000077fc28 R_X86_64_JUMP_SLOT  llvm::ConstantExpr::getNeg(llvm::Constant*, bool, bool)@LLVM_8
+000000000077fc30 R_X86_64_JUMP_SLOT  llvm::BinaryOperator::CreateNeg(llvm::Value*, llvm::Twine const&, llvm::Instruction*)@LLVM_8
+000000000077fc38 R_X86_64_JUMP_SLOT  llvm::APInt::sextOrSelf(unsigned int) const@LLVM_8
+000000000077fc40 R_X86_64_JUMP_SLOT  llvm::ConstantInt::get(llvm::Type*, llvm::APInt const&)@LLVM_8
+000000000077fc48 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::getConstant(llvm::ConstantInt*)@LLVM_8
+000000000077fc50 R_X86_64_JUMP_SLOT  llvm::GetElementPtrInst::getIndexedType(llvm::Type*, llvm::ArrayRef<llvm::Value*>)@LLVM_8
+000000000077fc58 R_X86_64_JUMP_SLOT  llvm::GetElementPtrInst::init(llvm::Value*, llvm::ArrayRef<llvm::Value*>, llvm::Twine const&)@LLVM_8
+000000000077fc60 R_X86_64_JUMP_SLOT  llvm::ScalarEvolution::isKnownPredicate(llvm::CmpInst::Predicate, llvm::SCEV const*, llvm::SCEV const*)@LLVM_8
+000000000077fc68 R_X86_64_JUMP_SLOT  llvm::ConstantExpr::getNot(llvm::Constant*)@LLVM_8
+000000000077fc70 R_X86_64_JUMP_SLOT  llvm::BinaryOperator::CreateNot(llvm::Value*, llvm::Twine const&, llvm::Instruction*)@LLVM_8
+000000000077fc78 R_X86_64_JUMP_SLOT  llvm::DataLayout::getIntPtrType(llvm::LLVMContext&, unsigned int) const@LLVM_8
+000000000077fc80 R_X86_64_JUMP_SLOT  llvm::CallInst::CreateMalloc(llvm::Instruction*, llvm::Type*, llvm::Type*, llvm::Value*, llvm::Value*, llvm::Function*, llvm::Twine const&)@LLVM_8
+000000000077fc88 R_X86_64_JUMP_SLOT  llvm::CallInst::CreateFree(llvm::Value*, llvm::Instruction*)@LLVM_8
+000000000077fc90 R_X86_64_JUMP_SLOT  llvm::AllocaInst::setAlignment(unsigned int)@LLVM_8
+000000000077fc98 R_X86_64_JUMP_SLOT  llvm::GetElementPtrInst::setIsInBounds(bool)@LLVM_8
+000000000077fca0 R_X86_64_JUMP_SLOT  llvm::LoopBase<llvm::BasicBlock, llvm::Loop>::addChildLoop(llvm::Loop*)@LLVM_8
+000000000077fca8 R_X86_64_JUMP_SLOT  llvm::Instruction::setSuccessor(unsigned int, llvm::BasicBlock*)@LLVM_8
+000000000077fcb0 R_X86_64_JUMP_SLOT  llvm::CastInst::CreateZExtOrBitCast(llvm::Value*, llvm::Type*, llvm::Twine const&, llvm::Instruction*)@LLVM_8
+000000000077fcb8 R_X86_64_JUMP_SLOT  llvm::ConstantExpr::getZExtOrBitCast(llvm::Constant*, llvm::Type*)@LLVM_8
+000000000077fcc0 R_X86_64_JUMP_SLOT  llvm::AllocaInst::AllocaInst(llvm::Type*, unsigned int, llvm::Value*, llvm::Twine const&, llvm::Instruction*)@LLVM_8
+000000000077fcc8 R_X86_64_JUMP_SLOT  llvm::FunctionType::get(llvm::Type*, bool)@LLVM_8
+000000000077fcd0 R_X86_64_JUMP_SLOT  llvm::CastInst::CreatePointerBitCastOrAddrSpaceCast(llvm::Value*, llvm::Type*, llvm::Twine const&, llvm::Instruction*)@LLVM_8
+000000000077fcd8 R_X86_64_JUMP_SLOT  llvm::ConstantExpr::getPointerBitCastOrAddrSpaceCast(llvm::Constant*, llvm::Type*)@LLVM_8
+000000000077fce0 R_X86_64_JUMP_SLOT  snprintf@GLIBC_2.2.5
+000000000077fce8 R_X86_64_JUMP_SLOT  strdup@GLIBC_2.2.5
+000000000077fcf0 R_X86_64_JUMP_SLOT  fprintf@GLIBC_2.2.5
+000000000077fcf8 R_X86_64_JUMP_SLOT  calloc@GLIBC_2.2.5
+000000000077fd00 R_X86_64_JUMP_SLOT  realloc@GLIBC_2.2.5
+000000000077fd08 R_X86_64_JUMP_SLOT  strncmp@GLIBC_2.2.5
+000000000077fd10 R_X86_64_JUMP_SLOT  strchr@GLIBC_2.2.5
+000000000077fd18 R_X86_64_JUMP_SLOT  fputc@GLIBC_2.2.5
+000000000077fd20 R_X86_64_JUMP_SLOT  fputs@GLIBC_2.2.5
+000000000077fd28 R_X86_64_JUMP_SLOT  printf@GLIBC_2.2.5
+000000000077fd30 R_X86_64_JUMP_SLOT  fflush@GLIBC_2.2.5
+000000000077fd38 R_X86_64_JUMP_SLOT  fgetc@GLIBC_2.2.5
+000000000077fd40 R_X86_64_JUMP_SLOT  __ctype_b_loc@GLIBC_2.3
+000000000077fd48 R_X86_64_JUMP_SLOT  strcasecmp@GLIBC_2.2.5
+000000000077fd50 R_X86_64_JUMP_SLOT  __ctype_tolower_loc@GLIBC_2.3
+000000000077fd58 R_X86_64_JUMP_SLOT  __ctype_toupper_loc@GLIBC_2.3
+000000000077fd60 R_X86_64_JUMP_SLOT  strcpy@GLIBC_2.2.5
+000000000077fd68 R_X86_64_JUMP_SLOT  strrchr@GLIBC_2.2.5
+000000000077fd70 R_X86_64_JUMP_SLOT  strtoul@GLIBC_2.2.5
+000000000077fd78 R_X86_64_JUMP_SLOT  puts@GLIBC_2.2.5
+000000000077fd80 R_X86_64_JUMP_SLOT  putchar@GLIBC_2.2.5
