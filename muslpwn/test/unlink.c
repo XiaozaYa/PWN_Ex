@@ -4,13 +4,6 @@
 
 int main(){
     
-    /*
-    void* chunks[14];
-    for(int i=0; i<14; i++) {
-        chunks[i] = malloc(0x140);
-        printf("\033[1;31m%p\n\033[0m", chunks[i]);
-    }
-    */
 
     void *ptr = malloc(0x10);
     struct meta_area* area = get_meta_area(get_meta(ptr));

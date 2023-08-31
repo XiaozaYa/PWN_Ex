@@ -62,7 +62,7 @@ int main(int argc, char** argv, char** env)
 		if (m > 48) break;
 		if (!buf[m])
 		{
-			printf("0x%X->0x%X\n", i, size_to_class(i));
+			printf("%6d -> %2d\n", i, size_to_class(i));
 			buf[m] = 1;
 		}
 	}

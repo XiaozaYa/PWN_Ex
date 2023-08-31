@@ -10,7 +10,7 @@ int main(int argc, char** argv, char** env)
 	for (i = 0; i < n; i++)
 	{
 		p[i] = malloc(0x30);
-		strncpy(p[i], "AAAAAAAAAA", 0x30);
+		strncpy(p[i], "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA", 0x30);
 		printf("%s\n", p[i]);
 	}
 	for (i = 0; i < n; i++)
